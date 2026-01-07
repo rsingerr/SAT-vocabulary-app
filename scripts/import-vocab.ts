@@ -28,9 +28,13 @@ async function importVocab() {
     
     console.log(`Found ${vocab.length} words. Starting import...`)
     
-    // Clear existing words
+    // Clear existing data (must delete in order due to foreign keys)
+    await prisma.flashcardProgress.deleteMany({})
+    await prisma.crosswordWord.deleteMany({})
+    await prisma.crosswordProgress.deleteMany({})
+    await prisma.crossword.deleteMany({})
     await prisma.word.deleteMany({})
-    console.log('Cleared existing words.')
+    console.log('Cleared existing words and related data.')
     
     let imported = 0
     let skipped = 0
