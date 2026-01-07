@@ -1,0 +1,97 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id        String   @id @default(cuid())
+  email     String?  @unique
+  password  String?
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  flashcardProgress FlashcardProgress[]
+  crosswordProgress CrosswordProgress[]
+}
+
+model Word {
+  id              String   @id @default(cuid())
+  word            String   @unique
+  partOfSpeech    String?
+  definition      String
+  synonyms        String?  // JSON array as string
+  exampleSentence String?
+  difficulty      String   @default("medium") // easy, medium, hard
+  createdAt       DateTime @default(now())
+
+  flashcardProgress FlashcardProgress[]
+  crosswordWords   CrosswordWord[]
+}
+
+model FlashcardProgress {
+  id            String   @id @default(cuid())
+  userId        String?
+  wordId        String
+  word          Word     @relation(fields: [wordId], references: [id])
+  user          User?    @relation(fields: [userId], references: [id])
+  accuracy      Float    @default(0) // 0-1
+  reviewCount   Int      @default(0)
+  lastReviewed  DateTime @default(now())
+  masteryLevel  Int      @default(0) // 0-5
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  @@index([userId, wordId])
+}
+
+model Crossword {
+  id          String   @id @default(cuid())
+  seed        String   @unique
+  wordCount   Int
+  difficulty  String   // easy, medium, hard
+  grid        String   // JSON string of grid layout
+  clues       String   // JSON string of clues
+  words       String   // JSON string of word positions
+  createdAt   DateTime @default(now())
+
+  crosswordWords CrosswordWord[]
+  crosswordProgress CrosswordProgress[]
+}
+
+model CrosswordWord {
+  id         String   @id @default(cuid())
+  crosswordId String
+  crossword  Crossword @relation(fields: [crosswordId], references: [id])
+  wordId     String
+  word       Word     @relation(fields: [wordId], references: [id])
+  position   String   // JSON string: {row, col, direction, number}
+  createdAt  DateTime @default(now())
+
+  @@index([crosswordId, wordId])
+}
+
+model CrosswordProgress {
+  id           String    @id @default(cuid())
+  userId       String?
+  user         User?     @relation(fields: [userId], references: [id])
+  crosswordId  String
+  crossword    Crossword @relation(fields: [crosswordId], references: [id])
+  timeElapsed  Int       // seconds
+  completed    Boolean   @default(false)
+  accuracy     Float     @default(0) // 0-1
+  bestTime     Int?      // seconds
+  attempts     Int       @default(1)
+  createdAt    DateTime  @default(now())
+  updatedAt    DateTime  @updatedAt
+
+  @@index([userId, crosswordId])
+}
+
+
