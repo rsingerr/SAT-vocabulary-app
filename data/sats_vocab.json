@@ -2,49 +2,49 @@
   {
     "word": "aerial",
     "partOfSpeech": "adjective",
-    "definition": "somehow",
+    "definition": "somehow related to the air",
     "exampleSentence": null
   },
   {
     "word": "aesthetic",
     "partOfSpeech": "adjective",
-    "definition": "artistic,",
+    "definition": "artistic, related to the appreciation of beauty",
     "exampleSentence": null
   },
   {
     "word": "affable",
     "partOfSpeech": "adjective",
-    "definition": "friendly,",
+    "definition": "friendly, amiable",
     "exampleSentence": null
   },
   {
     "word": "affront",
     "partOfSpeech": "noun",
-    "definition": "an",
+    "definition": "an insult",
     "exampleSentence": null
   },
   {
     "word": "aggrandize",
     "partOfSpeech": "verb",
-    "definition": "to increase or make",
+    "definition": "to increase or make greater",
     "exampleSentence": null
   },
   {
     "word": "aggrieved",
     "partOfSpeech": "adjective",
-    "definition": "distressed,",
+    "definition": "distressed, wronged, injured",
     "exampleSentence": null
   },
   {
     "word": "agile",
     "partOfSpeech": "adjective",
-    "definition": "quick,",
-    "exampleSentence": "The dogs were too slow to catch the agile  rabbit."
+    "definition": "quick, nimble",
+    "exampleSentence": null
   },
   {
     "word": "agnostic",
     "partOfSpeech": "adjective",
-    "definition": "believing",
+    "definition": "believing that the existence of God cannot be proven or disproven",
     "exampleSentence": null
   },
   {
@@ -56,98 +56,98 @@
   {
     "word": "aisle",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a passageway between rows of seats",
     "exampleSentence": null
   },
   {
     "word": "alacrity",
     "partOfSpeech": "noun",
-    "definition": "eagerness,",
+    "definition": "eagerness, speed",
     "exampleSentence": null
   },
   {
     "word": "alias",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a false name or identity",
     "exampleSentence": null
   },
   {
     "word": "allay",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to soothe, ease",
     "exampleSentence": null
   },
   {
     "word": "allege",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to assert, usually without proof",
     "exampleSentence": null
   },
   {
     "word": "alleviate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to relieve, make more bearable",
     "exampleSentence": null
   },
   {
     "word": "allocate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to distribute, set aside",
     "exampleSentence": null
   },
   {
     "word": "aloof",
     "partOfSpeech": "adjective",
-    "definition": "reserved,",
+    "definition": "reserved, distant",
     "exampleSentence": null
   },
   {
     "word": "altercation",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a dispute, ﬁght",
     "exampleSentence": null
   },
   {
     "word": "amalgamate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to bring together, unite",
     "exampleSentence": null
   },
   {
     "word": "ambiguous",
     "partOfSpeech": "adjective",
-    "definition": "uncertain,",
+    "definition": "uncertain, variably interpretable",
     "exampleSentence": null
   },
   {
     "word": "ambivalent",
     "partOfSpeech": "adjective",
-    "definition": "having",
+    "definition": "having opposing feelings",
     "exampleSentence": null
   },
   {
     "word": "ameliorate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to improve",
     "exampleSentence": null
   },
   {
     "word": "amenable",
     "partOfSpeech": "adjective",
-    "definition": "willing,",
+    "definition": "willing, compliant",
     "exampleSentence": null
   },
   {
     "word": "amenity",
     "partOfSpeech": "noun",
-    "definition": "an",
+    "definition": "an item that increases comfort",
     "exampleSentence": null
   },
   {
     "word": "amiable",
     "partOfSpeech": "adjective",
     "definition": "friendly",
-    "exampleSentence": "An amiable  fellow, Harry got along with just about everyone."
+    "exampleSentence": null
   },
   {
     "word": "amicable",
@@ -158,55 +158,55 @@
   {
     "word": "amorous",
     "partOfSpeech": "adjective",
-    "definition": "showing",
+    "definition": "showing love, particularly sexual",
     "exampleSentence": null
   },
   {
     "word": "amorphous",
     "partOfSpeech": "adjective",
-    "definition": "without",
+    "definition": "without deﬁnite shape or type",
     "exampleSentence": null
   },
   {
     "word": "anachronistic",
     "partOfSpeech": "adjective",
-    "definition": "being",
+    "definition": "being out of correct chronological order",
     "exampleSentence": null
   },
   {
     "word": "analgesic",
     "partOfSpeech": "noun",
-    "definition": "something",
+    "definition": "something that reduces pain",
     "exampleSentence": null
   },
   {
     "word": "analogous",
     "partOfSpeech": "adjective",
-    "definition": "similar",
+    "definition": "similar to, so that an analogy can be drawn",
     "exampleSentence": null
   },
   {
     "word": "anarchist",
     "partOfSpeech": "noun",
-    "definition": "one",
+    "definition": "one who wants to eliminate all government",
     "exampleSentence": null
   },
   {
     "word": "anathema",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a cursed, detested person",
     "exampleSentence": null
   },
   {
     "word": "anesthesia",
     "partOfSpeech": "noun",
-    "definition": "loss",
+    "definition": "loss of sensation",
     "exampleSentence": null
   },
   {
     "word": "anguish",
     "partOfSpeech": "noun",
-    "definition": "extreme",
+    "definition": "extreme sadness, torment",
     "exampleSentence": null
   },
   {
@@ -216,27 +216,21 @@
     "exampleSentence": null
   },
   {
-    "word": "annex",
-    "partOfSpeech": "verb",
-    "definition": "to",
-    "exampleSentence": null
-  },
-  {
     "word": "annul",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to make void or invalid",
     "exampleSentence": null
   },
   {
     "word": "anomaly",
     "partOfSpeech": "noun",
-    "definition": "something",
+    "definition": "something that does not ﬁt into the normal order",
     "exampleSentence": null
   },
   {
     "word": "anonymous",
     "partOfSpeech": "adjective",
-    "definition": "being",
+    "definition": "being unknown, unrecognized",
     "exampleSentence": null
   },
   {
@@ -248,7 +242,7 @@
   {
     "word": "antecedent",
     "partOfSpeech": "noun",
-    "definition": "something",
+    "definition": "something that came before",
     "exampleSentence": null
   },
   {
@@ -266,523 +260,481 @@
   {
     "word": "antipathy",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a strong dislike, repugnance",
     "exampleSentence": null
   },
   {
     "word": "antiquated",
     "partOfSpeech": "adjective",
-    "definition": "old,",
+    "definition": "old, out of date",
     "exampleSentence": null
   },
   {
     "word": "antiseptic",
     "partOfSpeech": "adjective",
-    "definition": "clean,",
+    "definition": "clean, sterile",
     "exampleSentence": null
   },
   {
     "word": "antithesis",
     "partOfSpeech": "noun",
-    "definition": "the",
+    "definition": "the absolute opposite",
     "exampleSentence": null
   },
   {
     "word": "anxiety",
     "partOfSpeech": "noun",
-    "definition": "intense",
+    "definition": "intense uneasiness",
     "exampleSentence": null
   },
   {
     "word": "apathetic",
     "partOfSpeech": "adjective",
-    "definition": "lacking",
+    "definition": "lacking concern, emotion",
     "exampleSentence": null
   },
   {
     "word": "apocryphal",
     "partOfSpeech": "adjective",
-    "definition": "ﬁctitious,",
+    "definition": "ﬁctitious, false, wrong",
     "exampleSentence": null
   },
   {
     "word": "appalling",
     "partOfSpeech": "adjective",
-    "definition": "inspiring",
+    "definition": "inspiring shock, horror, disgust",
     "exampleSentence": null
   },
   {
     "word": "appease",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to calm, satisfy",
     "exampleSentence": null
   },
   {
     "word": "appraise",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to assess the worth or value",
     "exampleSentence": null
-  },
-  {
-    "word": "apprehend",
-    "partOfSpeech": "verb",
-    "definition": "to",
-    "exampleSentence": "The criminal was apprehended  at the scene."
   },
   {
     "word": "approbation",
     "partOfSpeech": "noun",
     "definition": "praise",
-    "exampleSentence": "The crowd welcomed the heroes with approbation ."
+    "exampleSentence": null
   },
   {
     "word": "appropriate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to take, make use of",
     "exampleSentence": null
   },
   {
     "word": "aquatic",
     "partOfSpeech": "adjective",
-    "definition": "relating",
+    "definition": "relating to water",
     "exampleSentence": null
   },
   {
     "word": "arable",
     "partOfSpeech": "adjective",
-    "definition": "suitable",
+    "definition": "suitable for growing crops",
     "exampleSentence": null
   },
   {
     "word": "arbiter",
     "partOfSpeech": "noun",
-    "definition": "one",
+    "definition": "one who can resolve a dispute, make a decision",
     "exampleSentence": null
   },
   {
     "word": "arbitrary",
     "partOfSpeech": "adjective",
-    "definition": "based",
+    "definition": "based on factors that appear random",
     "exampleSentence": null
   },
   {
     "word": "arbitration",
     "partOfSpeech": "noun",
-    "definition": "the",
+    "definition": "the process or act of resolving a dispute",
     "exampleSentence": null
   },
   {
     "word": "arboreal",
     "partOfSpeech": "adjective",
-    "definition": "of",
-    "exampleSentence": "Leaves, roots, and bark are a few arboreal  traits."
+    "definition": "of or relating to trees",
+    "exampleSentence": null
   },
   {
     "word": "archaic",
     "partOfSpeech": "adjective",
-    "definition": "of",
+    "definition": "of or relating to an earlier period in time, outdated",
     "exampleSentence": null
   },
   {
     "word": "archetypal",
     "partOfSpeech": "adjective",
-    "definition": "the",
+    "definition": "the most representative or typical example of something",
     "exampleSentence": null
   },
   {
     "word": "ardor",
     "partOfSpeech": "noun",
-    "definition": "extreme",
+    "definition": "extreme vigor, energy, enthusiasm",
     "exampleSentence": null
   },
   {
     "word": "arid",
     "partOfSpeech": "adjective",
-    "definition": "excessively",
+    "definition": "excessively dry",
     "exampleSentence": null
   },
   {
     "word": "arrogate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to take without justiﬁcation",
     "exampleSentence": null
   },
   {
     "word": "artifact",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a remaining piece from an extinct culture or place",
     "exampleSentence": null
   },
   {
     "word": "artisan",
     "partOfSpeech": "noun",
-    "definition": "a",
-    "exampleSentence": "The artisan  uses wood to make walking sticks."
+    "definition": "a craftsman",
+    "exampleSentence": null
   },
   {
     "word": "ascertain",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to perceive, learn",
     "exampleSentence": null
   },
   {
     "word": "ascetic",
     "partOfSpeech": "adjective",
-    "definition": "practicing",
+    "definition": "practicing restraint as a means of self-discipline, usually religious",
     "exampleSentence": null
   },
   {
     "word": "ascribe",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to assign, credit, attribute to",
     "exampleSentence": null
   },
   {
     "word": "aspersion",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a curse, expression of ill-will",
     "exampleSentence": null
   },
   {
     "word": "aspire",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to long for, aim toward",
     "exampleSentence": null
   },
   {
     "word": "assail",
     "partOfSpeech": "verb",
-    "definition": "to",
-    "exampleSentence": "At dawn, the war planes assailed  the boats in the harbor."
+    "definition": "to attack",
+    "exampleSentence": null
   },
   {
     "word": "assess",
     "partOfSpeech": "verb",
-    "definition": "to",
-    "exampleSentence": "A crew arrived to assess  the damage after the crash."
+    "definition": "to evaluate",
+    "exampleSentence": null
   },
   {
     "word": "assiduous",
     "partOfSpeech": "adjective",
-    "definition": "hard-working,",
+    "definition": "hard-working, diligent",
     "exampleSentence": null
   },
   {
     "word": "assuage",
     "partOfSpeech": "verb",
-    "definition": "to",
-    "exampleSentence": "The mother held the baby to assuage  its fears."
+    "definition": "to ease, pacify",
+    "exampleSentence": null
   },
   {
     "word": "astute",
     "partOfSpeech": "adjective",
-    "definition": "very",
+    "definition": "very clever,",
     "exampleSentence": null
-  },
-  {
-    "word": "asylum",
-    "partOfSpeech": "noun",
-    "definition": "a",
-    "exampleSentence": "For Thoreau, the forest served as an asylum  from the pressures of urban life."
   },
   {
     "word": "atone",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to repent, make amends",
     "exampleSentence": null
   },
   {
     "word": "atrophy",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to wither away, decay",
     "exampleSentence": null
   },
   {
     "word": "attain",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to achieve, arrive",
     "exampleSentence": null
-  },
-  {
-    "word": "attribute",
-    "partOfSpeech": "verb",
-    "definition": "to",
-    "exampleSentence": "He attributes  all of his success to his mother’s undying encouragement."
   },
   {
     "word": "atypical",
     "partOfSpeech": "adjective",
-    "definition": "not",
-    "exampleSentence": "Screaming and crying is atypical  adult behavior."
+    "definition": "not typical, unusual",
+    "exampleSentence": null
   },
   {
     "word": "audacious",
     "partOfSpeech": "adjective",
-    "definition": "excessively",
+    "definition": "excessively bold",
     "exampleSentence": null
   },
   {
     "word": "audible",
     "partOfSpeech": "adjective",
-    "definition": "able",
+    "definition": "able to be heard",
     "exampleSentence": null
   },
   {
     "word": "augment",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to add to, expand",
     "exampleSentence": null
   },
   {
     "word": "auspicious",
     "partOfSpeech": "adjective",
-    "definition": "favorable,",
+    "definition": "favorable, indicative of good things",
     "exampleSentence": null
   },
   {
     "word": "austere",
     "partOfSpeech": "adjective",
-    "definition": "very",
+    "definition": "very bare, bleak",
     "exampleSentence": null
   },
   {
     "word": "avarice",
     "partOfSpeech": "noun",
-    "definition": "excessive",
+    "definition": "excessive greed",
     "exampleSentence": null
   },
   {
     "word": "avenge",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to seek revenge",
     "exampleSentence": null
   },
   {
     "word": "aversion",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a particular dislike for something",
     "exampleSentence": null
   },
   {
     "word": "balk",
     "partOfSpeech": "verb",
-    "definition": "to",
-    "exampleSentence": "Edna’s boss balked  at her request for another raise."
+    "definition": "to stop, block abruptly",
+    "exampleSentence": null
   },
   {
     "word": "ballad",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a love song",
     "exampleSentence": null
   },
   {
     "word": "banal",
     "partOfSpeech": "adjective",
-    "definition": "dull,",
+    "definition": "dull, commonplace",
     "exampleSentence": null
   },
   {
     "word": "bane",
     "partOfSpeech": "noun",
-    "definition": "a",
-    "exampleSentence": "Advanced physics is the bane  of many students’ academic lives."
+    "definition": "a burden",
+    "exampleSentence": null
   },
   {
     "word": "bard",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a poet, often a singer as well",
     "exampleSentence": null
   },
   {
     "word": "bashful",
     "partOfSpeech": "adjective",
-    "definition": "shy,",
+    "definition": "shy, excessively",
     "exampleSentence": null
-  },
-  {
-    "word": "battery",
-    "partOfSpeech": "noun",
-    "definition": "a",
-    "exampleSentence": "Most cars run on a combination of power from a battery  and gasoline."
   },
   {
     "word": "beguile",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to trick, deceive",
     "exampleSentence": null
   },
   {
     "word": "behemoth",
     "partOfSpeech": "noun",
-    "definition": "something",
+    "definition": "something of tremendous power or size",
     "exampleSentence": null
   },
   {
     "word": "benevolent",
     "partOfSpeech": "adjective",
-    "definition": "marked",
+    "definition": "marked by goodness or doing good",
     "exampleSentence": null
   },
   {
     "word": "benign",
     "partOfSpeech": "adjective",
-    "definition": "favorable,",
+    "definition": "favorable, not threatening, mild",
     "exampleSentence": null
   },
   {
     "word": "bequeath",
     "partOfSpeech": "verb",
-    "definition": "to",
-    "exampleSentence": "Jon’s father bequeathed  his entire estate to his mother."
+    "definition": "to pass on, give",
+    "exampleSentence": null
   },
   {
     "word": "berate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to scold vehemently",
     "exampleSentence": null
   },
   {
     "word": "bereft",
     "partOfSpeech": "adjective",
-    "definition": "devoid",
+    "definition": "devoid of, without",
     "exampleSentence": null
   },
   {
     "word": "beseech",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to beg, plead, implore",
     "exampleSentence": null
   },
   {
     "word": "bias",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a tendency, inclination, prejudice",
     "exampleSentence": null
   },
   {
     "word": "bilk",
     "partOfSpeech": "verb",
-    "definition": "cheat,",
+    "definition": "cheat, defraud",
     "exampleSentence": null
   },
   {
     "word": "blandish",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to coax by using ﬂattery",
     "exampleSentence": null
   },
   {
     "word": "blemish",
     "partOfSpeech": "noun",
-    "definition": "an",
+    "definition": "an imperfection, ﬂaw",
     "exampleSentence": null
-  },
-  {
-    "word": "blight",
-    "partOfSpeech": "noun",
-    "definition": "a",
-    "exampleSentence": "The potato blight  destroyed the harvest and bankrupted many families."
   },
   {
     "word": "boisterous",
     "partOfSpeech": "adjective",
-    "definition": "loud",
+    "definition": "loud and full of energy",
     "exampleSentence": null
   },
   {
     "word": "bombastic",
     "partOfSpeech": "adjective",
-    "definition": "excessively",
+    "definition": "excessively conﬁdent, pompous",
     "exampleSentence": null
   },
   {
     "word": "boon",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a gift or blessing",
     "exampleSentence": null
   },
   {
     "word": "bourgeois",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a middle-class person, capitalist",
     "exampleSentence": null
   },
   {
     "word": "brazen",
     "partOfSpeech": "adjective",
-    "definition": "excessively",
+    "definition": "excessively bold, brash",
     "exampleSentence": null
   },
   {
     "word": "brusque",
     "partOfSpeech": "adjective",
-    "definition": "short,",
+    "definition": "short, abrupt,",
     "exampleSentence": null
-  },
-  {
-    "word": "buffet",
-    "partOfSpeech": "verb",
-    "definition": "to",
-    "exampleSentence": "The strong winds buffeted  the ships, threatening to capsize them."
   },
   {
     "word": "burnish",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to polish,",
     "exampleSentence": null
-  },
-  {
-    "word": "buttress",
-    "partOfSpeech": "verb",
-    "definition": "to",
-    "exampleSentence": "The column buttresses  the roof above the statue."
   },
   {
     "word": "cacophony",
     "partOfSpeech": "noun",
-    "definition": "tremendous",
+    "definition": "tremendous noise, disharmonious sound",
     "exampleSentence": null
   },
   {
     "word": "cajole",
     "partOfSpeech": "verb",
-    "definition": "to",
-    "exampleSentence": "Fred’s buddies cajoled  him into attending the bachelor party."
+    "definition": "to urge, coax",
+    "exampleSentence": null
   },
   {
     "word": "calamity",
     "partOfSpeech": "noun",
-    "definition": "an",
+    "definition": "an event with disastrous consequences",
     "exampleSentence": null
   },
   {
     "word": "calibrate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to set, standardize",
     "exampleSentence": null
   },
   {
     "word": "callous",
     "partOfSpeech": "adjective",
-    "definition": "harsh,",
+    "definition": "harsh, cold, unfeeling",
     "exampleSentence": null
   },
   {
     "word": "calumny",
     "partOfSpeech": "noun",
-    "definition": "an",
+    "definition": "an attempt to spoil someone else’s reputation by spreading lies",
     "exampleSentence": null
   },
   {
     "word": "camaraderie",
     "partOfSpeech": "noun",
-    "definition": "brotherhood,",
+    "definition": "brotherhood, jovial unity",
     "exampleSentence": null
   },
   {
     "word": "candor",
     "partOfSpeech": "noun",
-    "definition": "honesty,",
+    "definition": "honesty, frankness",
     "exampleSentence": null
   },
   {
@@ -792,141 +744,117 @@
     "exampleSentence": null
   },
   {
-    "word": "canvas",
-    "partOfSpeech": "noun",
-    "definition": "a",
-    "exampleSentence": "Picasso liked to work on canvas rather than on bare cement."
-  },
-  {
     "word": "capacious",
     "partOfSpeech": "adjective",
-    "definition": "very",
+    "definition": "very spacious",
     "exampleSentence": null
   },
   {
     "word": "capitulate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to surrender",
     "exampleSentence": null
   },
   {
     "word": "capricious",
     "partOfSpeech": "adjective",
-    "definition": "subject",
+    "definition": "subject to whim, ﬁckle",
     "exampleSentence": null
   },
   {
     "word": "captivate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to get the attention of, hold",
     "exampleSentence": null
   },
   {
     "word": "carouse",
     "partOfSpeech": "verb",
-    "definition": "to",
-    "exampleSentence": "We caroused  all night after getting married."
+    "definition": "to party, celebrate",
+    "exampleSentence": null
   },
   {
     "word": "carp",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to annoy,",
     "exampleSentence": null
-  },
-  {
-    "word": "catalog",
-    "partOfSpeech": "verb",
-    "definition": "to",
-    "exampleSentence": "The judge cataloged  the victim’s injuries before calculating how much money he would award."
   },
   {
     "word": "catalyze",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to charge, inspire",
     "exampleSentence": null
   },
   {
     "word": "caucus",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a meeting usually held by people working toward the same goal",
     "exampleSentence": null
   },
   {
     "word": "caustic",
     "partOfSpeech": "adjective",
-    "definition": "bitter,",
+    "definition": "bitter, biting, acidic",
     "exampleSentence": null
   },
   {
     "word": "cavort",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to leap about, behave",
     "exampleSentence": null
-  },
-  {
-    "word": "censure",
-    "partOfSpeech": "noun",
-    "definition": "harsh",
-    "exampleSentence": "The frustrated teenager could not put up with anymore of her critical mother’s censure ."
   },
   {
     "word": "cerebral",
     "partOfSpeech": "adjective",
-    "definition": "related",
+    "definition": "related to the intellect",
     "exampleSentence": null
   },
   {
     "word": "chaos",
     "partOfSpeech": "noun",
-    "definition": "absolute",
+    "definition": "absolute disorder",
     "exampleSentence": null
   },
   {
     "word": "chastise",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to criticize severely",
     "exampleSentence": null
   },
   {
     "word": "cherish",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to feel or show affection toward something",
     "exampleSentence": null
   },
   {
     "word": "chide",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to voice disapproval",
     "exampleSentence": null
   },
   {
     "word": "choreography",
     "partOfSpeech": "noun",
-    "definition": "the",
-    "exampleSentence": null
-  },
-  {
-    "word": "chronicle",
-    "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "the arrangement of",
     "exampleSentence": null
   },
   {
     "word": "chronological",
     "partOfSpeech": "adjective",
-    "definition": "arranged",
+    "definition": "arranged in order of time",
     "exampleSentence": null
   },
   {
     "word": "circumlocution",
     "partOfSpeech": "noun",
-    "definition": "indirect",
+    "definition": "indirect and wordy language",
     "exampleSentence": null
   },
   {
     "word": "circumscribed",
     "partOfSpeech": "adjective",
-    "definition": "marked",
+    "definition": "marked off, bounded",
     "exampleSentence": null
   },
   {
@@ -938,32 +866,20 @@
   {
     "word": "circumvent",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to get around",
     "exampleSentence": null
   },
   {
     "word": "clairvoyant",
     "partOfSpeech": "adjective",
-    "definition": "able",
+    "definition": "able to perceive things that normal people",
     "exampleSentence": null
-  },
-  {
-    "word": "clamor",
-    "partOfSpeech": "noun",
-    "definition": "loud",
-    "exampleSentence": "Each morning the birds outside my window make such a clamor  that they wake me up."
   },
   {
     "word": "clandestine",
     "partOfSpeech": "adjective",
     "definition": "secret",
     "exampleSentence": null
-  },
-  {
-    "word": "cleave",
-    "partOfSpeech": "verb",
-    "definition": "to",
-    "exampleSentence": "Following the scandalous disgrace of their leader, the entire political party cleaved  into warring factions."
   },
   {
     "word": "clemency",
@@ -974,97 +890,91 @@
   {
     "word": "clergy",
     "partOfSpeech": "noun",
-    "definition": "members",
+    "definition": "members of Christian holy orders",
     "exampleSentence": null
   },
   {
     "word": "cloying",
     "partOfSpeech": "adjective",
-    "definition": "sickeningly",
+    "definition": "sickeningly sweet",
     "exampleSentence": null
   },
   {
     "word": "coagulate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to thicken, clot",
     "exampleSentence": null
   },
   {
     "word": "coalesce",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to fuse into a whole",
     "exampleSentence": null
   },
   {
     "word": "cobbler",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a person who makes or repairs shoes",
     "exampleSentence": null
   },
   {
     "word": "coerce",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to make somebody do something by force or threat",
     "exampleSentence": null
   },
   {
     "word": "cogent",
     "partOfSpeech": "adjective",
-    "definition": "intellectually",
+    "definition": "intellectually convincing",
     "exampleSentence": null
   },
   {
     "word": "cognizant",
     "partOfSpeech": "adjective",
-    "definition": "aware,",
+    "definition": "aware, mindful",
     "exampleSentence": null
   },
   {
     "word": "coherent",
     "partOfSpeech": "adjective",
-    "definition": "logically",
+    "definition": "logically consistent,",
     "exampleSentence": null
-  },
-  {
-    "word": "collateral",
-    "partOfSpeech": "adjective",
-    "definition": "secondary",
-    "exampleSentence": "Divorcing my wife had the collateral  effect of making me poor, as she was the only one of us with a job or money."
   },
   {
     "word": "colloquial",
     "partOfSpeech": "adjective",
-    "definition": "characteristic",
+    "definition": "characteristic of informal conversation",
     "exampleSentence": null
   },
   {
     "word": "collusion",
     "partOfSpeech": "noun",
-    "definition": "secret",
+    "definition": "secret agreement, conspiracy",
     "exampleSentence": null
   },
   {
     "word": "colossus",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a gigantic statue or thing",
     "exampleSentence": null
   },
   {
     "word": "combustion",
     "partOfSpeech": "noun",
-    "definition": "the",
+    "definition": "the act or process of burning",
     "exampleSentence": null
   },
   {
     "word": "commendation",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a notice of approval or recognition",
     "exampleSentence": null
   },
   {
     "word": "commensurate",
     "partOfSpeech": "adjective",
-    "definition": "corresponding",
+    "definition": "corresponding in size or amount",
     "exampleSentence": null
   },
   {
@@ -1076,115 +986,109 @@
   {
     "word": "compensate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to make an appropriate payment for something",
     "exampleSentence": null
   },
   {
     "word": "complacency",
     "partOfSpeech": "noun",
-    "definition": "self-satisﬁed",
+    "definition": "self-satisﬁed ignorance of danger",
     "exampleSentence": null
   },
   {
     "word": "complement",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to complete, make perfect",
     "exampleSentence": null
   },
   {
     "word": "compliant",
     "partOfSpeech": "adjective",
-    "definition": "ready",
+    "definition": "ready to adapt oneself to another’s wishes",
     "exampleSentence": null
   },
   {
     "word": "complicit",
     "partOfSpeech": "adjective",
-    "definition": "being",
+    "definition": "being an accomplice in a wrongful act",
     "exampleSentence": null
   },
   {
     "word": "compliment",
     "partOfSpeech": "noun",
-    "definition": "an",
+    "definition": "an expression of esteem or",
     "exampleSentence": null
-  },
-  {
-    "word": "compound",
-    "partOfSpeech": "verb",
-    "definition": "to",
-    "exampleSentence": "The difﬁculty of ﬁnding a ﬁre escape amid the smoke was compounded  with the dangers posed by the panicking crowds."
   },
   {
     "word": "comprehensive",
     "partOfSpeech": "adjective",
-    "definition": "including",
+    "definition": "including everything",
     "exampleSentence": null
   },
   {
     "word": "compress",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to apply pressure, squeeze together",
     "exampleSentence": null
   },
   {
     "word": "compunction",
     "partOfSpeech": "noun",
-    "definition": "distress",
+    "definition": "distress caused by feeling guilty",
     "exampleSentence": null
   },
   {
     "word": "concede",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to accept as valid",
     "exampleSentence": null
   },
   {
     "word": "conciliatory",
     "partOfSpeech": "adjective",
-    "definition": "friendly,",
+    "definition": "friendly, agreeable",
     "exampleSentence": null
   },
   {
     "word": "concise",
     "partOfSpeech": "adjective",
-    "definition": "brief",
+    "definition": "brief and direct in expression",
     "exampleSentence": null
   },
   {
     "word": "concoct",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to fabricate, make up",
     "exampleSentence": null
   },
   {
     "word": "concomitant",
     "partOfSpeech": "adjective",
-    "definition": "accompanying",
+    "definition": "accompanying in a subordinate fashion",
     "exampleSentence": null
   },
   {
     "word": "concord",
     "partOfSpeech": "noun",
-    "definition": "harmonious",
+    "definition": "harmonious agreement",
     "exampleSentence": null
   },
   {
     "word": "condolence",
     "partOfSpeech": "noun",
-    "definition": "an",
+    "definition": "an expression of sympathy in sorrow",
     "exampleSentence": null
   },
   {
     "word": "condone",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to pardon, deliberately overlook",
     "exampleSentence": null
   },
   {
     "word": "conduit",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a pipe or channel through which something passes",
     "exampleSentence": null
   },
   {
@@ -1196,349 +1100,337 @@
   {
     "word": "conformist",
     "partOfSpeech": "noun",
-    "definition": "one",
+    "definition": "one who behaves the same as others",
     "exampleSentence": null
   },
   {
     "word": "confound",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to frustrate, confuse",
     "exampleSentence": null
   },
   {
     "word": "congeal",
     "partOfSpeech": "verb",
-    "definition": "to",
-    "exampleSentence": "The sauce had congealed  into a thick paste."
+    "definition": "to thicken into a solid",
+    "exampleSentence": null
   },
   {
     "word": "congenial",
     "partOfSpeech": "adjective",
-    "definition": "pleasantly",
+    "definition": "pleasantly agreeable",
     "exampleSentence": null
   },
   {
     "word": "congregation",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a gathering of people, especially for religious services",
     "exampleSentence": null
   },
   {
     "word": "congruity",
     "partOfSpeech": "noun",
-    "definition": "the",
+    "definition": "the quality of being in agreement",
     "exampleSentence": null
   },
   {
     "word": "consecrate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to dedicate something to a holy purpose",
     "exampleSentence": null
   },
   {
     "word": "consensus",
     "partOfSpeech": "noun",
-    "definition": "an",
+    "definition": "an agreement of opinion",
     "exampleSentence": null
   },
   {
     "word": "consign",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to give something over to another’s care",
     "exampleSentence": null
   },
   {
     "word": "consolation",
     "partOfSpeech": "noun",
-    "definition": "an",
+    "definition": "an act of comforting",
     "exampleSentence": null
   },
   {
     "word": "consonant",
     "partOfSpeech": "adjective",
-    "definition": "in",
-    "exampleSentence": "The singers’ consonant  voices were beautiful."
+    "definition": "in harmony",
+    "exampleSentence": null
   },
   {
     "word": "constituent",
     "partOfSpeech": "noun",
-    "definition": "an",
+    "definition": "an essential part",
     "exampleSentence": null
   },
   {
     "word": "construe",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to interpret",
     "exampleSentence": null
   },
   {
     "word": "consummate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to complete a deal; to complete a marriage ceremony through sexual",
     "exampleSentence": null
   },
   {
     "word": "consumption",
     "partOfSpeech": "noun",
-    "definition": "the",
+    "definition": "the act of consuming",
     "exampleSentence": null
   },
   {
     "word": "contemporaneous",
     "partOfSpeech": "adjective",
-    "definition": "existing",
+    "definition": "existing during the same time",
     "exampleSentence": null
   },
   {
     "word": "contentious",
     "partOfSpeech": "adjective",
-    "definition": "having",
+    "definition": "having a tendency to quarrel or dispute",
     "exampleSentence": null
   },
   {
     "word": "contravene",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to contradict, oppose, violate",
     "exampleSentence": null
   },
   {
     "word": "contrite",
     "partOfSpeech": "adjective",
-    "definition": "penitent,",
+    "definition": "penitent, eager to be forgiven",
     "exampleSentence": null
   },
   {
     "word": "contusion",
     "partOfSpeech": "noun",
-    "definition": "bruise,",
-    "exampleSentence": "The contusions  on his face suggested he’d been in a ﬁght."
+    "definition": "bruise, injury",
+    "exampleSentence": null
   },
   {
     "word": "conundrum",
     "partOfSpeech": "noun",
-    "definition": "puzzle,",
+    "definition": "puzzle, problem",
     "exampleSentence": null
   },
   {
     "word": "convene",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to call",
     "exampleSentence": null
-  },
-  {
-    "word": "convention",
-    "partOfSpeech": "noun",
-    "definition": "an",
-    "exampleSentence": "The hotel was full because of the cattle- ranchers’ convention ."
   },
   {
     "word": "convivial",
     "partOfSpeech": "adjective",
-    "definition": "characterized",
+    "definition": "characterized by feasting, drinking, merriment",
     "exampleSentence": null
   },
   {
     "word": "convoluted",
     "partOfSpeech": "adjective",
-    "definition": "intricate,",
+    "definition": "intricate, complicated",
     "exampleSentence": null
   },
   {
     "word": "copious",
     "partOfSpeech": "adjective",
-    "definition": "profuse,",
+    "definition": "profuse, abundant",
     "exampleSentence": null
   },
   {
     "word": "cordial",
     "partOfSpeech": "adjective",
-    "definition": "warm,",
-    "exampleSentence": "His cor dial greeting melted my anger at once."
+    "definition": "warm, affectionate",
+    "exampleSentence": null
   },
   {
     "word": "coronation",
     "partOfSpeech": "noun",
-    "definition": "the",
+    "definition": "the act of crowning",
     "exampleSentence": null
   },
   {
     "word": "corpulence",
     "partOfSpeech": "adjective",
-    "definition": "extreme",
+    "definition": "extreme fatness",
     "exampleSentence": null
   },
   {
     "word": "corroborate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to support with evidence",
     "exampleSentence": null
   },
   {
     "word": "corrosive",
     "partOfSpeech": "adjective",
-    "definition": "having",
+    "definition": "having the tendency to erode or eat away",
     "exampleSentence": null
   },
   {
     "word": "cosmopolitan",
     "partOfSpeech": "adjective",
-    "definition": "sophisticated,",
+    "definition": "sophisticated, worldly",
     "exampleSentence": null
   },
   {
     "word": "counteract",
     "partOfSpeech": "verb",
-    "definition": "to",
-    "exampleSentence": null
-  },
-  {
-    "word": "coup",
-    "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "to neutralize, make",
     "exampleSentence": null
   },
   {
     "word": "covet",
     "partOfSpeech": "verb",
-    "definition": "to",
-    "exampleSentence": "I coveted  Moses’s house, wife, and car."
+    "definition": "to desire enviously",
+    "exampleSentence": null
   },
   {
     "word": "credulity",
     "partOfSpeech": "noun",
-    "definition": "readiness",
-    "exampleSentence": "His credulity  made him an easy target for con men."
+    "definition": "readiness to believe",
+    "exampleSentence": null
   },
   {
     "word": "crescendo",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a steady increase in intensity or volume",
     "exampleSentence": null
   },
   {
     "word": "criteria",
     "partOfSpeech": "noun",
-    "definition": "standards",
+    "definition": "standards by which something is judged",
     "exampleSentence": null
   },
   {
     "word": "culmination",
     "partOfSpeech": "noun",
-    "definition": "the",
+    "definition": "the climax toward which something progresses",
     "exampleSentence": null
   },
   {
     "word": "culpable",
     "partOfSpeech": "adjective",
-    "definition": "deserving",
+    "definition": "deserving blame",
     "exampleSentence": null
   },
   {
     "word": "cultivate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to nurture, improve, reﬁne",
     "exampleSentence": null
   },
   {
     "word": "cumulative",
     "partOfSpeech": "adjective",
-    "definition": "increasing,",
+    "definition": "increasing, building upon itself",
     "exampleSentence": null
   },
   {
     "word": "cunning",
     "partOfSpeech": "adjective",
-    "definition": "sly,",
+    "definition": "sly, clever at being deceitful",
     "exampleSentence": null
   },
   {
     "word": "cupidity",
     "partOfSpeech": "noun",
-    "definition": "greed,",
+    "definition": "greed, strong desire",
     "exampleSentence": null
   },
   {
     "word": "cursory",
     "partOfSpeech": "adjective",
-    "definition": "brief",
+    "definition": "brief to the point of being superﬁcial",
     "exampleSentence": null
   },
   {
     "word": "curt",
     "partOfSpeech": "adjective",
-    "definition": "abruptly",
+    "definition": "abruptly and rudely short",
     "exampleSentence": null
   },
   {
     "word": "curtail",
     "partOfSpeech": "verb",
-    "definition": "to",
-    "exampleSentence": "Since losing his job, he had to curtail  his spending."
+    "definition": "to lessen, reduce",
+    "exampleSentence": null
   },
   {
     "word": "daunting",
     "partOfSpeech": "adjective",
-    "definition": "intimidating,",
+    "definition": "intimidating, causing one to lose courage",
     "exampleSentence": null
   },
   {
     "word": "dearth",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a lack, scarcity",
     "exampleSentence": null
   },
   {
     "word": "debacle",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a disastrous failure, disruption",
     "exampleSentence": null
   },
   {
     "word": "debase",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to lower the quality or esteem of something",
     "exampleSentence": null
   },
   {
     "word": "debauch",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to corrupt by means of sensual pleasures",
     "exampleSentence": null
   },
   {
     "word": "debunk",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to expose the falseness of something",
     "exampleSentence": null
   },
   {
     "word": "decorous",
     "partOfSpeech": "adjective",
-    "definition": "socially",
+    "definition": "socially proper, appropriate",
     "exampleSentence": null
   },
   {
     "word": "decry",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to criticize openly",
     "exampleSentence": null
   },
   {
     "word": "deface",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to ruin or injure something’s appearance",
     "exampleSentence": null
   },
   {
     "word": "defamatory",
     "partOfSpeech": "adjective",
-    "definition": "harmful",
+    "definition": "harmful toward another’s reputation",
     "exampleSentence": null
   },
   {
     "word": "defer",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to postpone something; to yield to another’s wisdom",
     "exampleSentence": null
   },
   {
@@ -1550,19 +1442,19 @@
   {
     "word": "deft",
     "partOfSpeech": "adjective",
-    "definition": "skillful,",
+    "definition": "skillful, capable",
     "exampleSentence": null
   },
   {
     "word": "defunct",
     "partOfSpeech": "adjective",
-    "definition": "no",
+    "definition": "no longer used or existing",
     "exampleSentence": null
   },
   {
     "word": "delegate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to hand over responsibility for something",
     "exampleSentence": null
   },
   {
@@ -1574,49 +1466,49 @@
   {
     "word": "deliberate",
     "partOfSpeech": "adjective",
-    "definition": "intentional,",
+    "definition": "intentional, reﬂecting careful consideration",
     "exampleSentence": null
   },
   {
     "word": "delineate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to describe, outline, shed light on",
     "exampleSentence": null
   },
   {
     "word": "demarcation",
     "partOfSpeech": "noun",
-    "definition": "the",
+    "definition": "the marking of boundaries or categories",
     "exampleSentence": null
   },
   {
     "word": "demean",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to lower the status or stature of something",
     "exampleSentence": null
   },
   {
     "word": "demure",
     "partOfSpeech": "adjective",
-    "definition": "quiet,",
+    "definition": "quiet, modest, reserved",
     "exampleSentence": null
   },
   {
     "word": "denigrate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to belittle, diminish the opinion of",
     "exampleSentence": null
   },
   {
     "word": "denounce",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to criticize publicly",
     "exampleSentence": null
   },
   {
     "word": "deplore",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to feel or express sorrow, disapproval",
     "exampleSentence": null
   },
   {
@@ -1628,133 +1520,121 @@
   {
     "word": "deprecate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to belittle, depreciate",
     "exampleSentence": null
   },
   {
     "word": "derelict",
     "partOfSpeech": "adjective",
-    "definition": "abandoned,",
+    "definition": "abandoned, run-down",
     "exampleSentence": null
   },
   {
     "word": "deride",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to laugh at mockingly, scorn",
     "exampleSentence": null
   },
   {
     "word": "derivative",
     "partOfSpeech": "adjective",
-    "definition": "taken",
+    "definition": "taken directly from a source, unoriginal",
     "exampleSentence": null
   },
   {
     "word": "desecrate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to violate the sacredness of a thing or place",
     "exampleSentence": null
   },
   {
     "word": "desiccated",
     "partOfSpeech": "adjective",
-    "definition": "dried",
+    "definition": "dried up, dehydrated",
     "exampleSentence": null
   },
   {
     "word": "desolate",
     "partOfSpeech": "adjective",
-    "definition": "deserted,",
+    "definition": "deserted, dreary, lifeless",
     "exampleSentence": null
   },
   {
     "word": "despondent",
     "partOfSpeech": "adjective",
-    "definition": "feeling",
+    "definition": "feeling depressed, discouraged, hopeless",
     "exampleSentence": null
   },
   {
     "word": "despot",
     "partOfSpeech": "noun",
-    "definition": "one",
+    "definition": "one who has total power and rules brutally",
     "exampleSentence": null
   },
   {
     "word": "destitute",
     "partOfSpeech": "adjective",
-    "definition": "impoverished,",
+    "definition": "impoverished, utterly lacking",
     "exampleSentence": null
   },
   {
     "word": "deter",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to discourage, prevent from doing",
     "exampleSentence": null
   },
   {
     "word": "devious",
     "partOfSpeech": "adjective",
-    "definition": "not",
+    "definition": "not straightforward, deceitful",
     "exampleSentence": null
   },
   {
     "word": "dialect",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a variation of a language",
     "exampleSentence": null
   },
   {
     "word": "diaphanous",
     "partOfSpeech": "adjective",
-    "definition": "light,",
+    "definition": "light, airy,",
     "exampleSentence": null
-  },
-  {
-    "word": "didactic",
-    "partOfSpeech": "adjective",
-    "definition": "intended",
-    "exampleSentence": "She wrote up a didactic  document showing new employees how to handle the company’s customers."
-  },
-  {
-    "word": "diffuse",
-    "partOfSpeech": "verb",
-    "definition": "to",
-    "exampleSentence": "He diffused  the tension in the room by making in a joke."
   },
   {
     "word": "dilatory",
     "partOfSpeech": "adjective",
-    "definition": "tending",
+    "definition": "tending to delay, causing delay",
     "exampleSentence": null
   },
   {
     "word": "diligent",
     "partOfSpeech": "adjective",
-    "definition": "showing",
+    "definition": "showing care in doing one’s work",
     "exampleSentence": null
   },
   {
     "word": "diminutive",
     "partOfSpeech": "adjective",
-    "definition": "small",
+    "definition": "small or miniature",
     "exampleSentence": null
   },
   {
     "word": "dirge",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a mournful song, especially for a funeral",
     "exampleSentence": null
   },
   {
     "word": "disavow",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to deny knowledge of or responsibility for",
     "exampleSentence": null
   },
   {
     "word": "discern",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to perceive, detect",
     "exampleSentence": null
   },
   {
@@ -1766,217 +1646,199 @@
   {
     "word": "discordant",
     "partOfSpeech": "adjective",
-    "definition": "not",
+    "definition": "not agreeing, not in harmony with",
     "exampleSentence": null
   },
   {
     "word": "discrepancy",
     "partOfSpeech": "noun",
-    "definition": "difference,",
+    "definition": "difference, failure of things to correspond",
     "exampleSentence": null
   },
   {
     "word": "discretion",
     "partOfSpeech": "noun",
-    "definition": "the",
+    "definition": "the quality of being reserved in speech or action; good judgment",
     "exampleSentence": null
   },
   {
     "word": "discursive",
     "partOfSpeech": "adjective",
-    "definition": "rambling,",
+    "definition": "rambling, lacking",
     "exampleSentence": null
-  },
-  {
-    "word": "disdain",
-    "partOfSpeech": "verb",
-    "definition": "to",
-    "exampleSentence": "Insecure about their jobs, the older employees disdained  the recently hired ones, who were young and capable."
   },
   {
     "word": "disgruntled",
     "partOfSpeech": "adjective",
-    "definition": "upset,",
+    "definition": "upset, not content",
     "exampleSentence": null
   },
   {
     "word": "disheartened",
     "partOfSpeech": "adjective",
-    "definition": "feeling",
+    "definition": "feeling a loss of spirit or morale",
     "exampleSentence": null
   },
   {
     "word": "disparage",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to criticize or speak ill of",
     "exampleSentence": null
   },
   {
     "word": "disparate",
     "partOfSpeech": "adjective",
-    "definition": "sharply",
+    "definition": "sharply differing, containing sharply contrasting elements",
     "exampleSentence": null
   },
   {
     "word": "dispatch",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to send off to accomplish a duty",
     "exampleSentence": null
   },
   {
     "word": "dispel",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to drive away, scatter",
     "exampleSentence": null
   },
   {
     "word": "disperse",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to scatter, cause to scatter",
     "exampleSentence": null
   },
   {
     "word": "disrepute",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a state of being held in low regard",
     "exampleSentence": null
   },
   {
     "word": "dissemble",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to conceal, fake",
     "exampleSentence": null
   },
   {
     "word": "disseminate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to spread",
     "exampleSentence": null
-  },
-  {
-    "word": "dissent",
-    "partOfSpeech": "verb",
-    "definition": "to",
-    "exampleSentence": "The principal argued that the child should repeat the fourth grade, but the unhappy parents dissented ."
-  },
-  {
-    "word": "dissipate",
-    "partOfSpeech": "verb",
-    "definition": "to",
-    "exampleSentence": "The sun ﬁnally came out and dissipated  the haze."
   },
   {
     "word": "dissonance",
     "partOfSpeech": "noun",
-    "definition": "lack",
+    "definition": "lack of harmony or consistency",
     "exampleSentence": null
   },
   {
     "word": "dissuade",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to persuade someone not to do something",
     "exampleSentence": null
   },
   {
     "word": "distend",
     "partOfSpeech": "verb",
-    "definition": "to",
-    "exampleSentence": "Years of drinking beer caused his stomach to distend ."
+    "definition": "to swell out",
+    "exampleSentence": null
   },
   {
     "word": "dither",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to be indecisive",
     "exampleSentence": null
   },
   {
     "word": "divine",
     "partOfSpeech": "adjective",
-    "definition": "godly,",
+    "definition": "godly, exceedingly wonderful",
     "exampleSentence": null
   },
   {
     "word": "divisive",
     "partOfSpeech": "adjective",
-    "definition": "causing",
+    "definition": "causing dissent, discord",
     "exampleSentence": null
   },
   {
     "word": "docile",
     "partOfSpeech": "adjective",
-    "definition": "easily",
+    "definition": "easily taught or trained",
     "exampleSentence": null
   },
   {
     "word": "dogmatic",
     "partOfSpeech": "adjective",
-    "definition": "aggressively",
+    "definition": "aggressively and arrogantly certain about unproved principles",
     "exampleSentence": null
   },
   {
     "word": "dormant",
     "partOfSpeech": "adjective",
-    "definition": "sleeping,",
+    "definition": "sleeping, temporarily inactive",
     "exampleSentence": null
   },
   {
     "word": "dour",
     "partOfSpeech": "adjective",
-    "definition": "stern,",
+    "definition": "stern, joyless",
     "exampleSentence": null
   },
   {
     "word": "dubious",
     "partOfSpeech": "adjective",
-    "definition": "doubtful,",
+    "definition": "doubtful, of uncertain quality",
     "exampleSentence": null
   },
   {
     "word": "duplicity",
     "partOfSpeech": "noun",
-    "definition": "crafty",
+    "definition": "crafty dishonesty",
     "exampleSentence": null
   },
   {
     "word": "duress",
     "partOfSpeech": "noun",
-    "definition": "hardship,",
+    "definition": "hardship, threat",
     "exampleSentence": null
   },
   {
     "word": "dynamic",
     "partOfSpeech": "adjective",
-    "definition": "actively",
+    "definition": "actively changing",
     "exampleSentence": null
   },
   {
     "word": "ebullient",
     "partOfSpeech": "adjective",
-    "definition": "extremely",
+    "definition": "extremely lively, enthusiastic",
     "exampleSentence": null
   },
   {
     "word": "eclectic",
     "partOfSpeech": "adjective",
-    "definition": "consisting",
+    "definition": "consisting of a diverse variety of elements",
     "exampleSentence": null
   },
   {
     "word": "ecstatic",
     "partOfSpeech": "adjective",
-    "definition": "intensely",
+    "definition": "intensely and overpoweringly happy",
     "exampleSentence": null
   },
   {
     "word": "edict",
     "partOfSpeech": "noun",
-    "definition": "an",
+    "definition": "an order, decree",
     "exampleSentence": null
   },
   {
     "word": "efface",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to wipe out, obliterate, rub away",
     "exampleSentence": null
   },
   {
@@ -1988,181 +1850,163 @@
   {
     "word": "effrontery",
     "partOfSpeech": "noun",
-    "definition": "impudence,",
+    "definition": "impudence, nerve, insolence",
     "exampleSentence": null
   },
   {
     "word": "effulgent",
     "partOfSpeech": "adjective",
-    "definition": "radiant,",
-    "exampleSentence": "The golden palace was effulgent ."
+    "definition": "radiant, splendorous",
+    "exampleSentence": null
   },
   {
     "word": "egregious",
     "partOfSpeech": "adjective",
-    "definition": "extremely",
+    "definition": "extremely bad",
     "exampleSentence": null
   },
   {
     "word": "elaborate",
     "partOfSpeech": "adjective",
-    "definition": "complex,",
+    "definition": "complex, detailed, intricate",
     "exampleSentence": null
   },
   {
     "word": "elated",
     "partOfSpeech": "adjective",
-    "definition": "overjoyed,",
+    "definition": "overjoyed, thrilled",
     "exampleSentence": null
   },
   {
     "word": "elegy",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a speech given in honor of a dead person",
     "exampleSentence": null
   },
   {
     "word": "elicit",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to bring forth, draw out, evoke",
     "exampleSentence": null
   },
   {
     "word": "eloquent",
     "partOfSpeech": "adjective",
-    "definition": "expressive,",
+    "definition": "expressive, articulate, moving",
     "exampleSentence": null
   },
   {
     "word": "elucidate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to clarify, explain",
     "exampleSentence": null
   },
   {
     "word": "elude",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to evade, escape",
     "exampleSentence": null
   },
   {
     "word": "emaciated",
     "partOfSpeech": "adjective",
-    "definition": "very",
+    "definition": "very thin, enfeebled",
     "exampleSentence": null
-  },
-  {
-    "word": "embellish",
-    "partOfSpeech": "verb",
-    "definition": "to",
-    "exampleSentence": "My mom embellished  the living room by adding lace curtains."
   },
   {
     "word": "emend",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to correct or revise a written",
     "exampleSentence": null
-  },
-  {
-    "word": "eminent",
-    "partOfSpeech": "adjective",
-    "definition": "distinguished,",
-    "exampleSentence": "Mr. Phillips is such an eminent scholar that every professor on campus has come to hear him lecture."
   },
   {
     "word": "emollient",
     "partOfSpeech": "adjective",
     "definition": "soothing",
-    "exampleSentence": "This emollient  cream makes my skin very smooth."
+    "exampleSentence": null
   },
   {
     "word": "emote",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to express emotion",
     "exampleSentence": null
   },
   {
     "word": "empathy",
     "partOfSpeech": "noun",
-    "definition": "sensitivity",
-    "exampleSentence": null
-  },
-  {
-    "word": "empirical",
-    "partOfSpeech": "adjective",
-    "definition": "based",
+    "definition": "sensitivity to another’s feelings as if they were one’s",
     "exampleSentence": null
   },
   {
     "word": "emulate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to imitate",
     "exampleSentence": null
   },
   {
     "word": "enamor",
     "partOfSpeech": "verb",
-    "definition": "to ﬁll",
-    "exampleSentence": "I grew enamored  of that boy when he quoted my favorite love poem."
+    "definition": "to ﬁll with love, fascinate, usually used in passive form followed by “of” or “with”",
+    "exampleSentence": null
   },
   {
     "word": "encore",
     "partOfSpeech": "noun",
-    "definition": "the",
+    "definition": "the audience’s demand for a repeat performance; also the artist’s performance in response to that demand",
     "exampleSentence": null
   },
   {
     "word": "encumber",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to weigh down, burden",
     "exampleSentence": null
   },
   {
     "word": "enervate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to weaken, exhaust",
     "exampleSentence": null
   },
   {
     "word": "enfranchise",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to grant the vote to",
     "exampleSentence": null
   },
   {
     "word": "engender",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to bring about, create, generate",
     "exampleSentence": null
   },
   {
     "word": "enigmatic",
     "partOfSpeech": "adjective",
-    "definition": "mystifying,",
+    "definition": "mystifying, cryptic",
     "exampleSentence": null
   },
   {
     "word": "enmity",
     "partOfSpeech": "noun",
-    "definition": "ill",
+    "definition": "ill will, hatred, hostility",
     "exampleSentence": null
   },
   {
     "word": "ennui",
     "partOfSpeech": "noun",
-    "definition": "boredom,",
+    "definition": "boredom, weariness",
     "exampleSentence": null
   },
   {
     "word": "entail",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to include as a necessary step",
     "exampleSentence": null
   },
   {
     "word": "enthrall",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to charm, hold spellbound",
     "exampleSentence": null
   },
   {
@@ -2174,13 +2018,13 @@
   {
     "word": "epistolary",
     "partOfSpeech": "adjective",
-    "definition": "relating",
+    "definition": "relating to or contained in letters",
     "exampleSentence": null
   },
   {
     "word": "epitome",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a perfect example, embodiment",
     "exampleSentence": null
   },
   {
@@ -2192,7 +2036,7 @@
   {
     "word": "equivocal",
     "partOfSpeech": "adjective",
-    "definition": "ambiguous,",
+    "definition": "ambiguous, uncertain, undecided",
     "exampleSentence": null
   },
   {
@@ -2204,103 +2048,103 @@
   {
     "word": "eschew",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to shun, avoid",
     "exampleSentence": null
   },
   {
     "word": "esoteric",
     "partOfSpeech": "adjective",
-    "definition": "understood",
+    "definition": "understood by only a select few",
     "exampleSentence": null
   },
   {
     "word": "espouse",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to take up as a cause, support",
     "exampleSentence": null
   },
   {
     "word": "ethereal",
     "partOfSpeech": "adjective",
-    "definition": "heavenly,",
+    "definition": "heavenly, exceptionally delicate or reﬁned",
     "exampleSentence": null
   },
   {
     "word": "etymology",
     "partOfSpeech": "noun",
-    "definition": "the",
+    "definition": "the history of words, their origin and development",
     "exampleSentence": null
   },
   {
     "word": "evanescent",
     "partOfSpeech": "adjective",
-    "definition": "ﬂeeting,",
+    "definition": "ﬂeeting, momentary",
     "exampleSentence": null
   },
   {
     "word": "evince",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to show, reveal",
     "exampleSentence": null
   },
   {
     "word": "exacerbate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to make more violent, intense",
     "exampleSentence": null
   },
   {
     "word": "exalt",
     "partOfSpeech": "verb",
-    "definition": "to",
-    "exampleSentence": "Michael Jordan is the ﬁgure in basketball we exalt  the most."
+    "definition": "to glorify, praise",
+    "exampleSentence": null
   },
   {
     "word": "exasperate",
     "partOfSpeech": "verb",
-    "definition": "to",
-    "exampleSentence": "George’s endless complaints exasperated  his roomate."
+    "definition": "to irritate, irk",
+    "exampleSentence": null
   },
   {
     "word": "excavate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to dig out of the ground and remove",
     "exampleSentence": null
   },
   {
     "word": "exculpate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to free from guilt or blame, exonerate",
     "exampleSentence": null
   },
   {
     "word": "excursion",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a trip or outing",
     "exampleSentence": null
   },
   {
     "word": "execrable",
     "partOfSpeech": "adjective",
-    "definition": "loathsome,",
+    "definition": "loathsome, detestable",
     "exampleSentence": null
   },
   {
     "word": "exhort",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to urge, prod, spur",
     "exampleSentence": null
   },
   {
     "word": "exigent",
     "partOfSpeech": "adjective",
-    "definition": "urgent,",
+    "definition": "urgent, critical",
     "exampleSentence": null
   },
   {
     "word": "exonerate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to free from guilt or blame, exculpate",
     "exampleSentence": null
   },
   {
@@ -2312,85 +2156,79 @@
   {
     "word": "expedient",
     "partOfSpeech": "adjective",
-    "definition": "advisable,",
+    "definition": "advisable, advantageous, serving one’s self-interest",
     "exampleSentence": null
   },
   {
     "word": "expiate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to make amends for, atone",
     "exampleSentence": null
   },
   {
     "word": "expunge",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to obliterate, eradicate",
     "exampleSentence": null
   },
   {
     "word": "expurgate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to remove offensive or incorrect parts, usually of a book",
     "exampleSentence": null
   },
   {
     "word": "extant",
     "partOfSpeech": "adjective",
-    "definition": "existing,",
+    "definition": "existing, not destroyed or lost",
     "exampleSentence": null
   },
   {
     "word": "extol",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to praise, revere",
     "exampleSentence": null
   },
   {
     "word": "extraneous",
     "partOfSpeech": "adjective",
-    "definition": "irrelevant,",
+    "definition": "irrelevant, extra, not necessary",
     "exampleSentence": null
   },
   {
     "word": "extricate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to disentangle",
     "exampleSentence": null
   },
   {
     "word": "exult",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to rejoice",
     "exampleSentence": null
   },
   {
     "word": "fabricate",
     "partOfSpeech": "verb",
-    "definition": "to",
-    "exampleSentence": "Meet me in front of the museum’s main façade ."
-  },
-  {
-    "word": "facile",
-    "partOfSpeech": "adjective",
-    "definition": "easy,",
-    "exampleSentence": "This game is so facile  that even a four-year- old can master it."
+    "definition": "to make up,",
+    "exampleSentence": null
   },
   {
     "word": "fallacious",
     "partOfSpeech": "adjective",
-    "definition": "incorrect,",
+    "definition": "incorrect, misleading",
     "exampleSentence": null
   },
   {
     "word": "fastidious",
     "partOfSpeech": "adjective",
-    "definition": "meticulous,",
+    "definition": "meticulous, demanding, having high and often unattainable standards",
     "exampleSentence": null
   },
   {
     "word": "fathom",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to understand, comprehend",
     "exampleSentence": null
   },
   {
@@ -2400,207 +2238,201 @@
     "exampleSentence": null
   },
   {
-    "word": "felicitous",
-    "partOfSpeech": "adjective",
-    "definition": "well",
-    "exampleSentence": "While his comments were idiotic and rambling, mine were felicitous  and helpful."
-  },
-  {
     "word": "feral",
     "partOfSpeech": "adjective",
-    "definition": "wild,",
-    "exampleSentence": "That beast looks so feral  that I would fear being alone with it."
+    "definition": "wild, savage",
+    "exampleSentence": null
   },
   {
     "word": "fervent",
     "partOfSpeech": "adjective",
-    "definition": "ardent,",
+    "definition": "ardent, passionate",
     "exampleSentence": null
   },
   {
     "word": "fetid",
     "partOfSpeech": "adjective",
-    "definition": "having",
+    "definition": "having a foul odor",
     "exampleSentence": null
   },
   {
     "word": "fetter",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to chain, restrain",
     "exampleSentence": null
   },
   {
     "word": "foil",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to thwart, frustrate, defeat",
     "exampleSentence": null
   },
   {
     "word": "forage",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to graze, rummage for food",
     "exampleSentence": null
   },
   {
     "word": "forbearance",
     "partOfSpeech": "noun",
-    "definition": "patience,",
+    "definition": "patience, restraint, toleration",
     "exampleSentence": null
   },
   {
     "word": "forestall",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to prevent, thwart, delay",
     "exampleSentence": null
   },
   {
     "word": "forlorn",
     "partOfSpeech": "adjective",
-    "definition": "lonely,",
+    "definition": "lonely, abandoned, hopeless",
     "exampleSentence": null
   },
   {
     "word": "forsake",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to give up, renounce",
     "exampleSentence": null
   },
   {
     "word": "fortitude",
     "partOfSpeech": "noun",
-    "definition": "strength,",
-    "exampleSentence": "Achilles’ fortitude  in battle is legendary."
+    "definition": "strength, guts",
+    "exampleSentence": null
   },
   {
     "word": "fortuitous",
     "partOfSpeech": "adjective",
-    "definition": "happening",
+    "definition": "happening by chance, often lucky or fortunate",
     "exampleSentence": null
   },
   {
     "word": "forum",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a medium for lecture or discussion",
     "exampleSentence": null
   },
   {
     "word": "foster",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to stimulate, promote, encourage",
     "exampleSentence": null
   },
   {
     "word": "fractious",
     "partOfSpeech": "adjective",
-    "definition": "troublesome",
+    "definition": "troublesome or irritable",
     "exampleSentence": null
   },
   {
     "word": "fraught",
     "partOfSpeech": "adjective",
-    "definition": "(usually",
+    "definition": "(usually used with “with”) ﬁlled or accompanied with",
     "exampleSentence": null
   },
   {
     "word": "frenetic",
     "partOfSpeech": "adjective",
-    "definition": "frenzied,",
+    "definition": "frenzied, hectic, frantic",
     "exampleSentence": null
   },
   {
     "word": "frivolous",
     "partOfSpeech": "adjective",
-    "definition": "of",
+    "definition": "of little importance, triﬂing",
     "exampleSentence": null
   },
   {
     "word": "frugal",
     "partOfSpeech": "adjective",
-    "definition": "thrifty,",
+    "definition": "thrifty, economical",
     "exampleSentence": null
   },
   {
     "word": "garish",
     "partOfSpeech": "adjective",
-    "definition": "gaudy,",
+    "definition": "gaudy, in bad taste",
     "exampleSentence": null
   },
   {
     "word": "garrulous",
     "partOfSpeech": "adjective",
-    "definition": "talkative,",
+    "definition": "talkative, wordy",
     "exampleSentence": null
   },
   {
     "word": "genial",
     "partOfSpeech": "adjective",
-    "definition": "friendly,",
+    "definition": "friendly, affable",
     "exampleSentence": null
   },
   {
     "word": "gluttony",
     "partOfSpeech": "noun",
-    "definition": "overindulgence",
+    "definition": "overindulgence in food or drink",
     "exampleSentence": null
   },
   {
     "word": "goad",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to urge, spur, incite to action",
     "exampleSentence": null
   },
   {
     "word": "gourmand",
     "partOfSpeech": "noun",
-    "definition": "someone",
+    "definition": "someone fond of eating and drinking",
     "exampleSentence": null
   },
   {
     "word": "grandiloquence",
     "partOfSpeech": "noun",
-    "definition": "lofty,",
+    "definition": "lofty, pompous language",
     "exampleSentence": null
   },
   {
     "word": "grandiose",
     "partOfSpeech": "adjective",
-    "definition": "on",
+    "definition": "on a magniﬁcent or exaggerated scale",
     "exampleSentence": null
   },
   {
     "word": "gratuitous",
     "partOfSpeech": "adjective",
-    "definition": "uncalled",
+    "definition": "uncalled for, unwarranted",
     "exampleSentence": null
   },
   {
     "word": "gregarious",
     "partOfSpeech": "adjective",
-    "definition": "drawn",
+    "definition": "drawn to the company of others, sociable",
     "exampleSentence": null
   },
   {
     "word": "grievous",
     "partOfSpeech": "adjective",
-    "definition": "injurious,",
+    "definition": "injurious, hurtful; serious or grave in nature",
     "exampleSentence": null
   },
   {
     "word": "guile",
     "partOfSpeech": "noun",
-    "definition": "deceitful,",
+    "definition": "deceitful, cunning, sly behavior",
     "exampleSentence": null
   },
   {
     "word": "hackneyed",
     "partOfSpeech": "adjective",
-    "definition": "unoriginal,",
+    "definition": "unoriginal, trite",
     "exampleSentence": null
   },
   {
     "word": "hallowed",
     "partOfSpeech": "adjective",
-    "definition": "revered,",
+    "definition": "revered, consecrated",
     "exampleSentence": null
   },
   {
@@ -2610,117 +2442,111 @@
     "exampleSentence": null
   },
   {
-    "word": "harangue",
-    "partOfSpeech": "noun",
-    "definition": "a",
-    "exampleSentence": "Everyone had heard the teacher’s harangue  about gum chewing in class before."
-  },
-  {
     "word": "hardy",
     "partOfSpeech": "adjective",
-    "definition": "robust,",
+    "definition": "robust, capable of surviving through adverse conditions",
     "exampleSentence": null
   },
   {
     "word": "harrowing",
     "partOfSpeech": "adjective",
-    "definition": "greatly",
+    "definition": "greatly distressing, vexing",
     "exampleSentence": null
   },
   {
     "word": "haughty",
     "partOfSpeech": "adjective",
-    "definition": "disdainfully",
+    "definition": "disdainfully proud",
     "exampleSentence": null
   },
   {
     "word": "hedonist",
     "partOfSpeech": "noun",
-    "definition": "one",
+    "definition": "one who believes pleasure should be the primary pursuit of humans",
     "exampleSentence": null
   },
   {
     "word": "hegemony",
     "partOfSpeech": "noun",
-    "definition": "domination",
+    "definition": "domination over others",
     "exampleSentence": null
   },
   {
     "word": "heinous",
     "partOfSpeech": "adjective",
-    "definition": "shockingly",
+    "definition": "shockingly wicked, repugnant",
     "exampleSentence": null
   },
   {
     "word": "heterogeneous",
     "partOfSpeech": "adjective",
-    "definition": "varied,",
+    "definition": "varied, diverse in character",
     "exampleSentence": null
   },
   {
     "word": "hiatus",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a break or gap in duration or continuity",
     "exampleSentence": null
   },
   {
     "word": "hierarchy",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a system with ranked groups, usually according to social, economic, or professional class",
     "exampleSentence": null
   },
   {
     "word": "hypocrisy",
     "partOfSpeech": "noun",
-    "definition": "pretending",
+    "definition": "pretending to believe what one does not",
     "exampleSentence": null
   },
   {
     "word": "iconoclast",
     "partOfSpeech": "noun",
-    "definition": "one",
+    "definition": "one who attacks common beliefs or institutions",
     "exampleSentence": null
   },
   {
     "word": "idiosyncratic",
     "partOfSpeech": "adjective",
-    "definition": "peculiar",
+    "definition": "peculiar to one person; highly individualized",
     "exampleSentence": null
   },
   {
     "word": "idolatrous",
     "partOfSpeech": "adjective",
-    "definition": "excessively",
+    "definition": "excessively worshipping one object or person",
     "exampleSentence": null
   },
   {
     "word": "ignominious",
     "partOfSpeech": "adjective",
-    "definition": "humiliating,",
+    "definition": "humiliating, disgracing",
     "exampleSentence": null
   },
   {
     "word": "illicit",
     "partOfSpeech": "adjective",
-    "definition": "forbidden,",
+    "definition": "forbidden, not permitted",
     "exampleSentence": null
   },
   {
     "word": "immerse",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to absorb, deeply involve, engross",
     "exampleSentence": null
   },
   {
     "word": "immutable",
     "partOfSpeech": "adjective",
-    "definition": "not",
-    "exampleSentence": "The laws of physics are immutable  and constant."
+    "definition": "not changeable",
+    "exampleSentence": null
   },
   {
     "word": "impassive",
     "partOfSpeech": "adjective",
-    "definition": "stoic,",
+    "definition": "stoic, not susceptible to suffering",
     "exampleSentence": null
   },
   {
@@ -2732,104 +2558,80 @@
   {
     "word": "impecunious",
     "partOfSpeech": "adjective",
-    "definition": "poor",
+    "definition": "poor (“I fear he’s too impecunious  to take me out tonight,” the imperative 1. (adj.)  necessary, pressing",
     "exampleSentence": null
-  },
-  {
-    "word": "imperative",
-    "partOfSpeech": "adjective",
-    "definition": "necessary,",
-    "exampleSentence": "It is imperative  that you have these folders organized by midday."
   },
   {
     "word": "imperious",
     "partOfSpeech": "adjective",
-    "definition": "commanding,",
+    "definition": "commanding, domineering",
     "exampleSentence": null
   },
   {
     "word": "impertinent",
     "partOfSpeech": "adjective",
-    "definition": "rude,",
+    "definition": "rude, insolent",
     "exampleSentence": null
   },
   {
     "word": "impervious",
     "partOfSpeech": "adjective",
-    "definition": "impenetrable,",
+    "definition": "impenetrable, incapable of being affected",
     "exampleSentence": null
   },
   {
     "word": "impetuous",
     "partOfSpeech": "adjective",
-    "definition": "rash;",
+    "definition": "rash; hastily",
     "exampleSentence": null
-  },
-  {
-    "word": "impinge",
-    "partOfSpeech": "verb",
-    "definition": "to",
-    "exampleSentence": "The hail impinged  the roof, leaving large dents."
   },
   {
     "word": "implacable",
     "partOfSpeech": "adjective",
-    "definition": "incapable",
-    "exampleSentence": null
-  },
-  {
-    "word": "implement",
-    "partOfSpeech": "noun",
-    "definition": "an",
+    "definition": "incapable of being appeased or",
     "exampleSentence": null
   },
   {
     "word": "implicate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to involve in an incriminating way, incriminate",
     "exampleSentence": null
   },
   {
     "word": "implicit",
     "partOfSpeech": "adjective",
-    "definition": "understood",
+    "definition": "understood but not outwardly obvious, implied",
     "exampleSentence": null
   },
   {
     "word": "impregnable",
     "partOfSpeech": "adjective",
-    "definition": "resistant",
+    "definition": "resistant to capture or penetration",
     "exampleSentence": null
   },
   {
     "word": "impudent",
     "partOfSpeech": "adjective",
-    "definition": "casually",
+    "definition": "casually rude, insolent, impertinent",
     "exampleSentence": null
   },
   {
     "word": "impute",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to ascribe, blame",
     "exampleSentence": null
   },
   {
     "word": "inane",
     "partOfSpeech": "adjective",
-    "definition": "silly",
+    "definition": "silly and meaningless",
     "exampleSentence": null
   },
   {
     "word": "inarticulate",
     "partOfSpeech": "adjective",
-    "definition": "incapable of expressing oneself clearly through",
+    "definition": "incapable of expressing oneself clearly through speech",
     "exampleSentence": null
-  },
-  {
-    "word": "incendiary",
-    "partOfSpeech": "noun",
-    "definition": "a",
-    "exampleSentence": "If we catch the incendiary  who screamed “bomb” in the middle of the soccer match, we’re going to put him in jail."
   },
   {
     "word": "incessant",
@@ -2840,19 +2642,19 @@
   {
     "word": "inchoate",
     "partOfSpeech": "adjective",
-    "definition": "unformed",
+    "definition": "unformed or formless, in a beginning stage",
     "exampleSentence": null
   },
   {
     "word": "incisive",
     "partOfSpeech": "adjective",
-    "definition": "clear,",
+    "definition": "clear, sharp, direct",
     "exampleSentence": null
   },
   {
     "word": "inclination",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a tendency, propensity",
     "exampleSentence": null
   },
   {
@@ -2864,43 +2666,37 @@
   {
     "word": "incorrigible",
     "partOfSpeech": "adjective",
-    "definition": "incapable",
+    "definition": "incapable of correction, delinquent",
     "exampleSentence": null
   },
   {
     "word": "increment",
     "partOfSpeech": "noun",
-    "definition": "an",
+    "definition": "an enlargement; the process of",
     "exampleSentence": null
-  },
-  {
-    "word": "incumbent",
-    "partOfSpeech": "noun",
-    "definition": "one",
-    "exampleSentence": "The incumbent  senator is already serving his ﬁfth term."
   },
   {
     "word": "indefatigable",
     "partOfSpeech": "adjective",
-    "definition": "incapable",
+    "definition": "incapable of defeat, failure, decay",
     "exampleSentence": null
   },
   {
     "word": "indigenous",
     "partOfSpeech": "adjective",
-    "definition": "originating",
+    "definition": "originating in a region",
     "exampleSentence": null
   },
   {
     "word": "indigent",
     "partOfSpeech": "adjective",
-    "definition": "very",
+    "definition": "very poor, impoverished",
     "exampleSentence": null
   },
   {
     "word": "indignation",
     "partOfSpeech": "noun",
-    "definition": "anger",
+    "definition": "anger sparked by something unjust or unfair",
     "exampleSentence": null
   },
   {
@@ -2912,247 +2708,247 @@
   {
     "word": "indomitable",
     "partOfSpeech": "adjective",
-    "definition": "not",
+    "definition": "not capable of being conquered",
     "exampleSentence": null
   },
   {
     "word": "induce",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to bring about, stimulate",
     "exampleSentence": null
   },
   {
     "word": "ineffable",
     "partOfSpeech": "adjective",
-    "definition": "unspeakable,",
+    "definition": "unspeakable, incapable of being expressed through words",
     "exampleSentence": null
   },
   {
     "word": "inept",
     "partOfSpeech": "adjective",
-    "definition": "not",
+    "definition": "not suitable or capable, unqualiﬁed",
     "exampleSentence": null
   },
   {
     "word": "inexorable",
     "partOfSpeech": "adjective",
-    "definition": "incapable",
+    "definition": "incapable of being persuaded or placated",
     "exampleSentence": null
   },
   {
     "word": "inextricable",
     "partOfSpeech": "adjective",
-    "definition": "hopelessly",
+    "definition": "hopelessly tangled or entangled",
     "exampleSentence": null
   },
   {
     "word": "infamy",
     "partOfSpeech": "noun",
-    "definition": "notoriety,",
+    "definition": "notoriety, extreme ill repute",
     "exampleSentence": null
   },
   {
     "word": "infusion",
     "partOfSpeech": "noun",
-    "definition": "an",
+    "definition": "an injection of one substance into another; the permeation of one substance by another",
     "exampleSentence": null
   },
   {
     "word": "ingenious",
     "partOfSpeech": "adjective",
-    "definition": "clever,",
+    "definition": "clever, resourceful",
     "exampleSentence": null
   },
   {
     "word": "ingenuous",
     "partOfSpeech": "adjective",
-    "definition": "not",
+    "definition": "not devious; innocent and candid",
     "exampleSentence": null
   },
   {
     "word": "inhibit",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to prevent, restrain, stop",
     "exampleSentence": null
   },
   {
     "word": "inimical",
     "partOfSpeech": "adjective",
-    "definition": "hostile,",
+    "definition": "hostile, enemylike",
     "exampleSentence": null
   },
   {
     "word": "iniquity",
     "partOfSpeech": "noun",
-    "definition": "wickedness",
+    "definition": "wickedness or sin",
     "exampleSentence": null
   },
   {
     "word": "innate",
     "partOfSpeech": "adjective",
-    "definition": "inborn,",
+    "definition": "inborn, native, inherent",
     "exampleSentence": null
   },
   {
     "word": "innocuous",
     "partOfSpeech": "adjective",
-    "definition": "harmless,",
+    "definition": "harmless, inoffensive",
     "exampleSentence": null
   },
   {
     "word": "innovate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to do something in an unprecedented way",
     "exampleSentence": null
   },
   {
     "word": "innuendo",
     "partOfSpeech": "noun",
-    "definition": "an",
+    "definition": "an insinuation",
     "exampleSentence": null
   },
   {
     "word": "inoculate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to introduce a microorganism, serum, or vaccine into an organism in order to increase immunity to illness; to vaccinate",
     "exampleSentence": null
   },
   {
     "word": "inquisitor",
     "partOfSpeech": "noun",
-    "definition": "one",
+    "definition": "one who inquires, especially in a hostile manner",
     "exampleSentence": null
   },
   {
     "word": "insatiable",
     "partOfSpeech": "adjective",
-    "definition": "incapable",
+    "definition": "incapable of being satisﬁed",
     "exampleSentence": null
   },
   {
     "word": "insidious",
     "partOfSpeech": "adjective",
-    "definition": "appealing",
+    "definition": "appealing but imperceptibly harmful, seductive",
     "exampleSentence": null
   },
   {
     "word": "insinuate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to suggest indirectly or subtly",
     "exampleSentence": null
   },
   {
     "word": "insipid",
     "partOfSpeech": "adjective",
-    "definition": "dull,",
-    "exampleSentence": "The play was so insipid , I fell asleep halfway through."
+    "definition": "dull, boring",
+    "exampleSentence": null
   },
   {
     "word": "insolent",
     "partOfSpeech": "adjective",
-    "definition": "rude,",
+    "definition": "rude, arrogant, overbearing",
     "exampleSentence": null
   },
   {
     "word": "instigate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to urge, goad",
     "exampleSentence": null
   },
   {
     "word": "insular",
     "partOfSpeech": "adjective",
-    "definition": "separated",
+    "definition": "separated and narrow-minded; tight-knit, closed off",
     "exampleSentence": null
   },
   {
     "word": "insurgent",
     "partOfSpeech": "noun",
-    "definition": "one",
+    "definition": "one who rebels",
     "exampleSentence": null
   },
   {
     "word": "integral",
     "partOfSpeech": "adjective",
-    "definition": "necessary",
+    "definition": "necessary for completeness",
     "exampleSentence": null
   },
   {
     "word": "interject",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to insert between other things",
     "exampleSentence": null
   },
   {
     "word": "interlocutor",
     "partOfSpeech": "noun",
-    "definition": "someone",
+    "definition": "someone who participates in a dialogue or conversation",
     "exampleSentence": null
   },
   {
     "word": "interminable",
     "partOfSpeech": "adjective",
-    "definition": "without",
+    "definition": "without possibility of end",
     "exampleSentence": null
   },
   {
     "word": "intimation",
     "partOfSpeech": "noun",
-    "definition": "an",
+    "definition": "an indirect suggestion",
     "exampleSentence": null
   },
   {
     "word": "intractable",
     "partOfSpeech": "adjective",
-    "definition": "difﬁcult",
+    "definition": "difﬁcult to manipulate, unmanageable",
     "exampleSentence": null
   },
   {
     "word": "intransigent",
     "partOfSpeech": "adjective",
-    "definition": "refusing",
+    "definition": "refusing to compromise, often on an extreme opinion",
     "exampleSentence": null
   },
   {
     "word": "intrepid",
     "partOfSpeech": "adjective",
-    "definition": "brave",
+    "definition": "brave in the face of danger",
     "exampleSentence": null
   },
   {
     "word": "inundate",
     "partOfSpeech": "verb",
-    "definition": "to ﬂood",
+    "definition": "to ﬂood with abundance",
     "exampleSentence": null
   },
   {
     "word": "inure",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to cause someone or something to become accustomed to a situation",
     "exampleSentence": null
   },
   {
     "word": "invective",
     "partOfSpeech": "noun",
-    "definition": "an",
+    "definition": "an angry verbal attack",
     "exampleSentence": null
   },
   {
     "word": "inveterate",
     "partOfSpeech": "adjective",
-    "definition": "stubbornly",
+    "definition": "stubbornly established by habit",
     "exampleSentence": null
   },
   {
     "word": "inviolable",
     "partOfSpeech": "adjective",
-    "definition": "secure",
+    "definition": "secure from assault",
     "exampleSentence": null
   },
   {
     "word": "irascible",
     "partOfSpeech": "adjective",
-    "definition": "easily",
+    "definition": "easily angered",
     "exampleSentence": null
   },
   {
@@ -3164,301 +2960,277 @@
   {
     "word": "irrevocable",
     "partOfSpeech": "adjective",
-    "definition": "incapable",
+    "definition": "incapable of being taken back",
     "exampleSentence": null
   },
   {
     "word": "jubilant",
     "partOfSpeech": "adjective",
-    "definition": "extremely",
+    "definition": "extremely joyful, happy",
     "exampleSentence": null
   },
   {
     "word": "judicious",
     "partOfSpeech": "adjective",
-    "definition": "having",
+    "definition": "having or exercising sound judgment",
     "exampleSentence": null
   },
   {
     "word": "juxtaposition",
     "partOfSpeech": "noun",
-    "definition": "the",
+    "definition": "the act of placing two things next to each other for implicit",
     "exampleSentence": null
   },
   {
     "word": "knell",
     "partOfSpeech": "noun",
-    "definition": "the",
+    "definition": "the solemn sound of a bell, often indicating a death",
     "exampleSentence": null
   },
   {
     "word": "kudos",
     "partOfSpeech": "noun",
-    "definition": "praise",
+    "definition": "praise for an achievement",
     "exampleSentence": null
   },
   {
     "word": "laceration",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a cut, tear",
     "exampleSentence": null
   },
   {
     "word": "laconic",
     "partOfSpeech": "adjective",
-    "definition": "terse",
+    "definition": "terse in speech or writing",
     "exampleSentence": null
   },
   {
     "word": "languid",
     "partOfSpeech": "adjective",
-    "definition": "sluggish",
+    "definition": "sluggish from fatigue or weakness",
     "exampleSentence": null
   },
   {
     "word": "larceny",
     "partOfSpeech": "noun",
-    "definition": "obtaining",
+    "definition": "obtaining another’s property by theft or trickery",
     "exampleSentence": null
   },
   {
     "word": "largess",
     "partOfSpeech": "noun",
-    "definition": "the",
+    "definition": "the generous giving of lavish gifts",
     "exampleSentence": null
   },
   {
     "word": "latent",
     "partOfSpeech": "adjective",
-    "definition": "hidden,",
+    "definition": "hidden, but capable of being exposed",
     "exampleSentence": null
   },
   {
     "word": "laudatory",
     "partOfSpeech": "adjective",
-    "definition": "expressing",
+    "definition": "expressing admiration or",
     "exampleSentence": null
-  },
-  {
-    "word": "lavish",
-    "partOfSpeech": "adjective",
-    "definition": "given",
-    "exampleSentence": "Because they had worked very hard, the performers appreciated the critic’s lavish  praise."
   },
   {
     "word": "legerdemain",
     "partOfSpeech": "noun",
-    "definition": "deception,",
+    "definition": "deception, slight-of-hand",
     "exampleSentence": null
   },
   {
     "word": "lenient",
     "partOfSpeech": "adjective",
-    "definition": "demonstrating",
+    "definition": "demonstrating tolerance or gentleness",
     "exampleSentence": null
   },
   {
     "word": "lethargic",
     "partOfSpeech": "adjective",
-    "definition": "in",
+    "definition": "in a state of sluggishness or",
     "exampleSentence": null
-  },
-  {
-    "word": "liability",
-    "partOfSpeech": "noun",
-    "definition": "something",
-    "exampleSentence": "The bungee-jumping tower was a great liability  for the owners of the carnival."
   },
   {
     "word": "libertarian",
     "partOfSpeech": "adjective",
-    "definition": "advocating",
+    "definition": "advocating principles of liberty and free will",
     "exampleSentence": null
   },
   {
     "word": "licentious",
     "partOfSpeech": "adjective",
-    "definition": "displaying",
+    "definition": "displaying a lack of moral or legal restraints",
     "exampleSentence": null
   },
   {
     "word": "limpid",
     "partOfSpeech": "adjective",
-    "definition": "clear,",
+    "definition": "clear, transparent",
     "exampleSentence": null
   },
   {
     "word": "linchpin",
     "partOfSpeech": "noun",
-    "definition": "something",
+    "definition": "something that holds separate parts together",
     "exampleSentence": null
   },
   {
     "word": "lithe",
     "partOfSpeech": "adjective",
-    "definition": "graceful, ﬂexible,",
+    "definition": "graceful, ﬂexible, supple",
     "exampleSentence": null
   },
   {
     "word": "litigant",
     "partOfSpeech": "noun",
-    "definition": "someone",
+    "definition": "someone engaged in a lawsuit",
     "exampleSentence": null
   },
   {
     "word": "luminous",
     "partOfSpeech": "adjective",
-    "definition": "brightly",
+    "definition": "brightly shining",
     "exampleSentence": null
   },
   {
     "word": "lurid",
     "partOfSpeech": "adjective",
-    "definition": "ghastly,",
+    "definition": "ghastly, sensational",
     "exampleSentence": null
   },
   {
     "word": "maelstrom",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a destructive whirlpool which rapidly sucks in objects",
     "exampleSentence": null
   },
   {
     "word": "magnanimous",
     "partOfSpeech": "adjective",
-    "definition": "noble,",
+    "definition": "noble, generous",
     "exampleSentence": null
   },
   {
     "word": "malediction",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a curse",
     "exampleSentence": null
   },
   {
     "word": "malevolent",
     "partOfSpeech": "adjective",
-    "definition": "wanting",
+    "definition": "wanting harm to befall others",
     "exampleSentence": null
   },
   {
     "word": "malleable",
     "partOfSpeech": "adjective",
-    "definition": "capable",
+    "definition": "capable of being shaped or transformed",
     "exampleSentence": null
   },
   {
     "word": "mandate",
     "partOfSpeech": "noun",
-    "definition": "an",
-    "exampleSentence": null
-  },
-  {
-    "word": "manifest",
-    "partOfSpeech": "adjective",
-    "definition": "easily",
+    "definition": "an authoritative",
     "exampleSentence": null
   },
   {
     "word": "manifold",
     "partOfSpeech": "adjective",
-    "definition": "diverse,",
+    "definition": "diverse, varied",
     "exampleSentence": null
   },
   {
     "word": "maudlin",
     "partOfSpeech": "adjective",
-    "definition": "weakly",
+    "definition": "weakly sentimental",
     "exampleSentence": null
   },
   {
     "word": "maverick",
     "partOfSpeech": "noun",
-    "definition": "an",
+    "definition": "an independent, nonconformist person",
     "exampleSentence": null
   },
   {
     "word": "mawkish",
     "partOfSpeech": "adjective",
-    "definition": "characterized",
+    "definition": "characterized by sick sentimentality",
     "exampleSentence": null
   },
   {
     "word": "maxim",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a common saying expressing a principle of conduct",
     "exampleSentence": null
   },
   {
     "word": "meager",
     "partOfSpeech": "adjective",
-    "definition": "deﬁcient",
+    "definition": "deﬁcient in size or quality",
     "exampleSentence": null
   },
   {
     "word": "medley",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a mixture of differing things",
     "exampleSentence": null
   },
   {
     "word": "mendacious",
     "partOfSpeech": "adjective",
-    "definition": "having",
+    "definition": "having a lying, false character",
     "exampleSentence": null
   },
   {
     "word": "mercurial",
     "partOfSpeech": "adjective",
-    "definition": "characterized",
+    "definition": "characterized by rapid change or temperamentality",
     "exampleSentence": null
   },
   {
     "word": "meritorious",
     "partOfSpeech": "adjective",
-    "definition": "worthy",
+    "definition": "worthy of esteem or reward",
     "exampleSentence": null
   },
   {
     "word": "metamorphosis",
     "partOfSpeech": "noun",
-    "definition": "the",
+    "definition": "the change of form, shape, substance",
     "exampleSentence": null
   },
   {
     "word": "meticulous",
     "partOfSpeech": "adjective",
-    "definition": "extremely",
+    "definition": "extremely careful with details",
     "exampleSentence": null
   },
   {
     "word": "mitigate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to make less violent,",
     "exampleSentence": null
-  },
-  {
-    "word": "moderate",
-    "partOfSpeech": "adjective",
-    "definition": "not",
-    "exampleSentence": "Luckily, the restaurant we chose had moderate  prices; none of us have any money."
   },
   {
     "word": "modicum",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a small amount of something",
     "exampleSentence": null
   },
   {
     "word": "modulate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to pass from one state to another, especially in music",
     "exampleSentence": null
   },
   {
     "word": "mollify",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to soften in temper",
     "exampleSentence": null
   },
   {
@@ -3470,187 +3242,187 @@
   {
     "word": "morose",
     "partOfSpeech": "adjective",
-    "definition": "gloomy",
+    "definition": "gloomy or sullen",
     "exampleSentence": null
   },
   {
     "word": "multifarious",
     "partOfSpeech": "adjective",
-    "definition": "having",
+    "definition": "having great diversity or variety",
     "exampleSentence": null
   },
   {
     "word": "mundane",
     "partOfSpeech": "adjective",
-    "definition": "concerned",
+    "definition": "concerned with the world rather than with heaven,",
     "exampleSentence": null
   },
   {
     "word": "mutable",
     "partOfSpeech": "adjective",
-    "definition": "able",
+    "definition": "able to change",
     "exampleSentence": null
   },
   {
     "word": "myriad",
     "partOfSpeech": "adjective",
-    "definition": "consisting",
+    "definition": "consisting of a very great number",
     "exampleSentence": null
   },
   {
     "word": "nadir",
     "partOfSpeech": "noun",
-    "definition": "the",
+    "definition": "the lowest point of something",
     "exampleSentence": null
   },
   {
     "word": "nascent",
     "partOfSpeech": "adjective",
-    "definition": "in",
+    "definition": "in the process of being born or coming into existence",
     "exampleSentence": null
   },
   {
     "word": "nebulous",
     "partOfSpeech": "adjective",
-    "definition": "vaguely",
+    "definition": "vaguely deﬁned, cloudy",
     "exampleSentence": null
   },
   {
     "word": "nefarious",
     "partOfSpeech": "adjective",
-    "definition": "heinously",
+    "definition": "heinously villainous",
     "exampleSentence": null
   },
   {
     "word": "negligent",
     "partOfSpeech": "adjective",
-    "definition": "habitually",
+    "definition": "habitually careless, neglectful",
     "exampleSentence": null
   },
   {
     "word": "neophyte",
     "partOfSpeech": "noun",
-    "definition": "someone",
+    "definition": "someone who is young or inexperienced",
     "exampleSentence": null
   },
   {
     "word": "nocturnal",
     "partOfSpeech": "adjective",
-    "definition": "relating",
+    "definition": "relating to or occurring during the night",
     "exampleSentence": null
   },
   {
     "word": "noisome",
     "partOfSpeech": "adjective",
-    "definition": "unpleasant,",
+    "definition": "unpleasant, offensive, especially to the sense of smell",
     "exampleSentence": null
   },
   {
     "word": "nomadic",
     "partOfSpeech": "adjective",
-    "definition": "wandering",
+    "definition": "wandering from place to place",
     "exampleSentence": null
   },
   {
     "word": "nominal",
     "partOfSpeech": "adjective",
-    "definition": "triﬂing,",
+    "definition": "triﬂing, insigniﬁcant",
     "exampleSentence": null
   },
   {
     "word": "nonchalant",
     "partOfSpeech": "adjective",
-    "definition": "having",
+    "definition": "having a lack of concern, indifference",
     "exampleSentence": null
   },
   {
     "word": "nondescript",
     "partOfSpeech": "adjective",
-    "definition": "lacking",
+    "definition": "lacking a distinctive character",
     "exampleSentence": null
   },
   {
     "word": "notorious",
     "partOfSpeech": "adjective",
-    "definition": "widely",
+    "definition": "widely and unfavorably known",
     "exampleSentence": null
   },
   {
     "word": "novice",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a beginner, someone without training or experience",
     "exampleSentence": null
   },
   {
     "word": "noxious",
     "partOfSpeech": "adjective",
-    "definition": "harmful,",
+    "definition": "harmful, unwholesome",
     "exampleSentence": null
   },
   {
     "word": "nuance",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a slight variation in meaning, tone, expression",
     "exampleSentence": null
   },
   {
     "word": "nurture",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to assist the development of",
     "exampleSentence": null
   },
   {
     "word": "obdurate",
     "partOfSpeech": "adjective",
-    "definition": "unyielding",
+    "definition": "unyielding to persuasion or moral inﬂuences",
     "exampleSentence": null
   },
   {
     "word": "obfuscate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to render incomprehensible",
     "exampleSentence": null
   },
   {
     "word": "oblivious",
     "partOfSpeech": "adjective",
-    "definition": "lacking",
+    "definition": "lacking consciousness or awareness of something",
     "exampleSentence": null
   },
   {
     "word": "obscure",
     "partOfSpeech": "adjective",
-    "definition": "unclear,",
+    "definition": "unclear, partially hidden",
     "exampleSentence": null
   },
   {
     "word": "obsequious",
     "partOfSpeech": "adjective",
-    "definition": "excessively",
+    "definition": "excessively compliant or submissive",
     "exampleSentence": null
   },
   {
     "word": "obsolete",
     "partOfSpeech": "adjective",
-    "definition": "no",
+    "definition": "no longer used, out of date",
     "exampleSentence": null
   },
   {
     "word": "obstinate",
     "partOfSpeech": "adjective",
-    "definition": "not",
+    "definition": "not yielding easily, stubborn",
     "exampleSentence": null
   },
   {
     "word": "obstreperous",
     "partOfSpeech": "adjective",
-    "definition": "noisy,",
+    "definition": "noisy, unruly",
     "exampleSentence": null
   },
   {
     "word": "obtuse",
     "partOfSpeech": "adjective",
-    "definition": "lacking",
+    "definition": "lacking quickness of sensibility or intellect",
     "exampleSentence": null
   },
   {
@@ -3662,7 +3434,7 @@
   {
     "word": "ominous",
     "partOfSpeech": "adjective",
-    "definition": "foreboding",
+    "definition": "foreboding or foreshadowing evil",
     "exampleSentence": null
   },
   {
@@ -3674,43 +3446,43 @@
   {
     "word": "opulent",
     "partOfSpeech": "adjective",
-    "definition": "characterized",
+    "definition": "characterized by rich abundance verging on ostentation",
     "exampleSentence": null
   },
   {
     "word": "oration",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a speech delivered in a formal or ceremonious manner",
     "exampleSentence": null
   },
   {
     "word": "ornate",
     "partOfSpeech": "adjective",
-    "definition": "highly",
+    "definition": "highly elaborate, excessively decorated",
     "exampleSentence": null
   },
   {
     "word": "orthodox",
     "partOfSpeech": "adjective",
-    "definition": "conventional,",
+    "definition": "conventional, conforming to established protocol",
     "exampleSentence": null
   },
   {
     "word": "oscillate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to sway from one side to the other",
     "exampleSentence": null
   },
   {
     "word": "ostensible",
     "partOfSpeech": "adjective",
-    "definition": "appearing",
+    "definition": "appearing as such, seemingly",
     "exampleSentence": null
   },
   {
     "word": "ostentatious",
     "partOfSpeech": "adjective",
-    "definition": "excessively",
+    "definition": "excessively showy, glitzy",
     "exampleSentence": null
   },
   {
@@ -3722,127 +3494,127 @@
   {
     "word": "palatable",
     "partOfSpeech": "adjective",
-    "definition": "agreeable",
+    "definition": "agreeable to the taste or sensibilities",
     "exampleSentence": null
   },
   {
     "word": "palette",
     "partOfSpeech": "adjective",
-    "definition": "a",
+    "definition": "a range of colors or qualities",
     "exampleSentence": null
   },
   {
     "word": "palliate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to reduce the severity of",
     "exampleSentence": null
   },
   {
     "word": "pallid",
     "partOfSpeech": "adjective",
-    "definition": "lacking",
+    "definition": "lacking color",
     "exampleSentence": null
   },
   {
     "word": "panacea",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a remedy for all ills or difﬁculties",
     "exampleSentence": null
   },
   {
     "word": "paradigm",
     "partOfSpeech": "noun",
-    "definition": "an",
+    "definition": "an example that is a perfect pattern or model",
     "exampleSentence": null
   },
   {
     "word": "paragon",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a model of excellence or perfection",
     "exampleSentence": null
   },
   {
     "word": "paramount",
     "partOfSpeech": "adjective",
-    "definition": "greatest",
+    "definition": "greatest in importance, rank, character",
     "exampleSentence": null
   },
   {
     "word": "pariah",
     "partOfSpeech": "noun",
-    "definition": "an",
+    "definition": "an outcast",
     "exampleSentence": null
   },
   {
     "word": "parody",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a satirical imitation",
     "exampleSentence": null
   },
   {
     "word": "parsimony",
     "partOfSpeech": "noun",
-    "definition": "frugality,",
+    "definition": "frugality, stinginess",
     "exampleSentence": null
   },
   {
     "word": "partisan",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a follower, adherent",
     "exampleSentence": null
   },
   {
     "word": "patent",
     "partOfSpeech": "adjective",
-    "definition": "readily",
+    "definition": "readily seen or understood, clear",
     "exampleSentence": null
   },
   {
     "word": "pathology",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a deviation from the normal",
     "exampleSentence": null
   },
   {
     "word": "pathos",
     "partOfSpeech": "noun",
-    "definition": "an",
+    "definition": "an emotion of sympathy",
     "exampleSentence": null
   },
   {
     "word": "paucity",
     "partOfSpeech": "adjective",
-    "definition": "small",
+    "definition": "small in quantity",
     "exampleSentence": null
   },
   {
     "word": "pejorative",
     "partOfSpeech": "adjective",
-    "definition": "derogatory,",
+    "definition": "derogatory, uncomplimentary",
     "exampleSentence": null
   },
   {
     "word": "pellucid",
     "partOfSpeech": "adjective",
-    "definition": "easily",
+    "definition": "easily intelligible, clear",
     "exampleSentence": null
   },
   {
     "word": "penchant",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a tendency, partiality, preference",
     "exampleSentence": null
   },
   {
     "word": "penitent",
     "partOfSpeech": "adjective",
-    "definition": "remorseful,",
+    "definition": "remorseful, regretful",
     "exampleSentence": null
   },
   {
     "word": "penultimate",
     "partOfSpeech": "adjective",
-    "definition": "next",
+    "definition": "next to last",
     "exampleSentence": null
   },
   {
@@ -3854,133 +3626,133 @@
   {
     "word": "perfunctory",
     "partOfSpeech": "adjective",
-    "definition": "showing",
+    "definition": "showing little interest or enthusiasm",
     "exampleSentence": null
   },
   {
     "word": "permeate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to spread throughout, saturate",
     "exampleSentence": null
   },
   {
     "word": "pernicious",
     "partOfSpeech": "adjective",
-    "definition": "extremely",
+    "definition": "extremely destructive or harmful",
     "exampleSentence": null
   },
   {
     "word": "perplex",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to confuse",
     "exampleSentence": null
   },
   {
     "word": "perspicacity",
     "partOfSpeech": "adjective",
-    "definition": "shrewdness,",
+    "definition": "shrewdness, perceptiveness",
     "exampleSentence": null
   },
   {
     "word": "pert",
     "partOfSpeech": "adjective",
-    "definition": "ﬂippant,",
+    "definition": "ﬂippant, bold",
     "exampleSentence": null
   },
   {
     "word": "pertinacious",
     "partOfSpeech": "adjective",
-    "definition": "stubbornly",
+    "definition": "stubbornly persistent",
     "exampleSentence": null
   },
   {
     "word": "perusal",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a careful examination, review",
     "exampleSentence": null
   },
   {
     "word": "pervasive",
     "partOfSpeech": "adjective",
-    "definition": "having",
+    "definition": "having the tendency to spread throughout",
     "exampleSentence": null
   },
   {
     "word": "petulance",
     "partOfSpeech": "noun",
-    "definition": "rudeness,",
+    "definition": "rudeness, irritability",
     "exampleSentence": null
   },
   {
     "word": "philanthropic",
     "partOfSpeech": "adjective",
-    "definition": "charitable,",
+    "definition": "charitable, giving",
     "exampleSentence": null
   },
   {
     "word": "phlegmatic",
     "partOfSpeech": "adjective",
-    "definition": "uninterested,",
+    "definition": "uninterested, unresponsive",
     "exampleSentence": null
   },
   {
     "word": "pinnacle",
     "partOfSpeech": "noun",
-    "definition": "the",
+    "definition": "the highest point",
     "exampleSentence": null
   },
   {
     "word": "pithy",
     "partOfSpeech": "adjective",
-    "definition": "concisely",
+    "definition": "concisely meaningful",
     "exampleSentence": null
   },
   {
     "word": "pittance",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a very small amount, especially relating to money",
     "exampleSentence": null
   },
   {
     "word": "placate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to ease the anger of, soothe",
     "exampleSentence": null
   },
   {
     "word": "placid",
     "partOfSpeech": "adjective",
-    "definition": "calm,",
-    "exampleSentence": "The placid  lake surface was as smooth as glass."
+    "definition": "calm, peaceful",
+    "exampleSentence": null
   },
   {
     "word": "platitude",
     "partOfSpeech": "noun",
-    "definition": "an",
+    "definition": "an uninspired remark, cliché",
     "exampleSentence": null
   },
   {
     "word": "plaudits",
     "partOfSpeech": "noun",
-    "definition": "enthusiastic",
+    "definition": "enthusiastic approval, applause",
     "exampleSentence": null
   },
   {
     "word": "plausible",
     "partOfSpeech": "adjective",
-    "definition": "believable,",
+    "definition": "believable, reasonable",
     "exampleSentence": null
   },
   {
     "word": "plenitude",
     "partOfSpeech": "noun",
-    "definition": "an",
+    "definition": "an abundance",
     "exampleSentence": null
   },
   {
     "word": "plethora",
     "partOfSpeech": "noun",
-    "definition": "an",
+    "definition": "an abundance, excess",
     "exampleSentence": null
   },
   {
@@ -3992,31 +3764,31 @@
   {
     "word": "poignant",
     "partOfSpeech": "adjective",
-    "definition": "deeply",
+    "definition": "deeply affecting, moving",
     "exampleSentence": null
   },
   {
     "word": "polemic",
     "partOfSpeech": "noun",
-    "definition": "an",
+    "definition": "an aggressive argument against a speciﬁc opinion",
     "exampleSentence": null
   },
   {
     "word": "portent",
     "partOfSpeech": "noun",
-    "definition": "an",
+    "definition": "an omen",
     "exampleSentence": null
   },
   {
     "word": "potable",
     "partOfSpeech": "adjective",
-    "definition": "suitable",
+    "definition": "suitable for drinking",
     "exampleSentence": null
   },
   {
     "word": "potentate",
     "partOfSpeech": "noun",
-    "definition": "one",
+    "definition": "one who has great power, a ruler",
     "exampleSentence": null
   },
   {
@@ -4028,91 +3800,91 @@
   {
     "word": "precipice",
     "partOfSpeech": "noun",
-    "definition": "the",
+    "definition": "the face of a cliff, a steep or overhanging place",
     "exampleSentence": null
   },
   {
     "word": "preclude",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to prevent",
     "exampleSentence": null
   },
   {
     "word": "precocious",
     "partOfSpeech": "adjective",
-    "definition": "advanced,",
+    "definition": "advanced, developing ahead of time",
     "exampleSentence": null
   },
   {
     "word": "predilection",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a preference or inclination for something",
     "exampleSentence": null
   },
   {
     "word": "preponderance",
     "partOfSpeech": "adjective",
-    "definition": "superiority",
+    "definition": "superiority in importance or quantity",
     "exampleSentence": null
   },
   {
     "word": "prepossessing",
     "partOfSpeech": "adjective",
-    "definition": "occupying",
+    "definition": "occupying the mind to the exclusion of other thoughts or feelings",
     "exampleSentence": null
   },
   {
     "word": "presage",
     "partOfSpeech": "noun",
-    "definition": "an",
+    "definition": "an omen",
     "exampleSentence": null
   },
   {
     "word": "prescient",
     "partOfSpeech": "adjective",
-    "definition": "to",
+    "definition": "to have foreknowledge of events",
     "exampleSentence": null
   },
   {
     "word": "prescribe",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to lay down a rule",
     "exampleSentence": null
   },
   {
     "word": "presumptuous",
     "partOfSpeech": "adjective",
-    "definition": "disrespectfully",
+    "definition": "disrespectfully bold",
     "exampleSentence": null
   },
   {
     "word": "primeval",
     "partOfSpeech": "adjective",
-    "definition": "original,",
+    "definition": "original, ancient",
     "exampleSentence": null
   },
   {
     "word": "privation",
     "partOfSpeech": "noun",
-    "definition": "lacking",
+    "definition": "lacking basic necessities",
     "exampleSentence": null
   },
   {
     "word": "probity",
     "partOfSpeech": "noun",
-    "definition": "virtue,",
+    "definition": "virtue, integrity",
     "exampleSentence": null
   },
   {
     "word": "proclivity",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a strong inclination toward something",
     "exampleSentence": null
   },
   {
     "word": "procure",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to obtain, acquire",
     "exampleSentence": null
   },
   {
@@ -4124,25 +3896,25 @@
   {
     "word": "profuse",
     "partOfSpeech": "adjective",
-    "definition": "plentiful,",
+    "definition": "plentiful, abundant",
     "exampleSentence": null
   },
   {
     "word": "promulgate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to proclaim, make known",
     "exampleSentence": null
   },
   {
     "word": "propagate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to multiply, spread out",
     "exampleSentence": null
   },
   {
     "word": "propensity",
     "partOfSpeech": "noun",
-    "definition": "an",
+    "definition": "an inclination, preference",
     "exampleSentence": null
   },
   {
@@ -4154,115 +3926,115 @@
   {
     "word": "propriety",
     "partOfSpeech": "noun",
-    "definition": "the",
+    "definition": "the quality or state of being proper, decent",
     "exampleSentence": null
   },
   {
     "word": "prosaic",
     "partOfSpeech": "adjective",
-    "definition": "plain,",
+    "definition": "plain, lacking liveliness",
     "exampleSentence": null
   },
   {
     "word": "proscribe",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to condemn, outlaw",
     "exampleSentence": null
   },
   {
     "word": "protean",
     "partOfSpeech": "adjective",
-    "definition": "able",
+    "definition": "able to change shape; displaying great variety",
     "exampleSentence": null
   },
   {
     "word": "prowess",
     "partOfSpeech": "noun",
-    "definition": "extraordinary",
+    "definition": "extraordinary ability",
     "exampleSentence": null
   },
   {
     "word": "prudence",
     "partOfSpeech": "noun",
-    "definition": "cautious,",
+    "definition": "cautious, circumspect",
     "exampleSentence": null
   },
   {
     "word": "prurient",
     "partOfSpeech": "adjective",
-    "definition": "eliciting",
+    "definition": "eliciting or possessing an extraordinary interest in sex",
     "exampleSentence": null
   },
   {
     "word": "puerile",
     "partOfSpeech": "adjective",
-    "definition": "juvenile,",
+    "definition": "juvenile, immature",
     "exampleSentence": null
   },
   {
     "word": "pugnacious",
     "partOfSpeech": "adjective",
-    "definition": "quarrelsome,",
+    "definition": "quarrelsome, combative",
     "exampleSentence": null
   },
   {
     "word": "pulchritude",
     "partOfSpeech": "noun",
-    "definition": "physical",
+    "definition": "physical beauty",
     "exampleSentence": null
   },
   {
     "word": "punctilious",
     "partOfSpeech": "adjective",
-    "definition": "eager",
+    "definition": "eager to follow rules or conventions",
     "exampleSentence": null
   },
   {
     "word": "pungent",
     "partOfSpeech": "adjective",
-    "definition": "having",
+    "definition": "having a pointed, sharp quality—often used to describe smells",
     "exampleSentence": null
   },
   {
     "word": "punitive",
     "partOfSpeech": "adjective",
-    "definition": "involving",
+    "definition": "involving punishment",
     "exampleSentence": null
   },
   {
     "word": "putrid",
     "partOfSpeech": "adjective",
-    "definition": "rotten,",
-    "exampleSentence": "Those rotten eggs smell putrid ."
+    "definition": "rotten, foul",
+    "exampleSentence": null
   },
   {
     "word": "quagmire",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a difﬁcult situation",
     "exampleSentence": null
   },
   {
     "word": "quaint",
     "partOfSpeech": "adjective",
-    "definition": "charmingly",
+    "definition": "charmingly old-fashioned",
     "exampleSentence": null
   },
   {
     "word": "quell",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to control or diffuse a potentially explosive situation",
     "exampleSentence": null
   },
   {
     "word": "querulous",
     "partOfSpeech": "adjective",
-    "definition": "whiny,",
+    "definition": "whiny, complaining",
     "exampleSentence": null
   },
   {
     "word": "quixotic",
     "partOfSpeech": "adjective",
-    "definition": "idealistic,",
+    "definition": "idealistic, impractical",
     "exampleSentence": null
   },
   {
@@ -4274,241 +4046,205 @@
   {
     "word": "rail",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to scold, protest",
     "exampleSentence": null
   },
   {
     "word": "rancid",
     "partOfSpeech": "adjective",
-    "definition": "having",
+    "definition": "having a terrible taste or smell",
     "exampleSentence": null
   },
   {
     "word": "rancor",
     "partOfSpeech": "noun",
-    "definition": "deep,",
+    "definition": "deep, bitter resentment",
     "exampleSentence": null
   },
   {
     "word": "rapport",
     "partOfSpeech": "noun",
-    "definition": "mutual",
+    "definition": "mutual understanding and harmony",
     "exampleSentence": null
   },
   {
     "word": "rash",
     "partOfSpeech": "adjective",
-    "definition": "hasty,",
+    "definition": "hasty, incautious",
     "exampleSentence": null
   },
   {
     "word": "raucous",
     "partOfSpeech": "adjective",
-    "definition": "loud,",
+    "definition": "loud, boisterous",
     "exampleSentence": null
   },
   {
     "word": "raze",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to demolish, level",
     "exampleSentence": null
   },
   {
     "word": "rebuke",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to scold, criticize",
     "exampleSentence": null
   },
   {
     "word": "recalcitrant",
     "partOfSpeech": "adjective",
-    "definition": "deﬁant,",
+    "definition": "deﬁant, unapologetic",
     "exampleSentence": null
   },
   {
     "word": "recapitulate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to sum up, repeat",
     "exampleSentence": null
   },
   {
     "word": "reciprocate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to give in return",
     "exampleSentence": null
   },
   {
     "word": "reclusive",
     "partOfSpeech": "adjective",
-    "definition": "solitary,",
+    "definition": "solitary, shunning",
     "exampleSentence": null
-  },
-  {
-    "word": "reconcile",
-    "partOfSpeech": "verb",
-    "definition": "to",
-    "exampleSentence": "The feuding neighbors ﬁnally reconciled one brought the other a delicious tuna noodle casserole."
   },
   {
     "word": "rectitude",
     "partOfSpeech": "noun",
-    "definition": "uprightness,",
+    "definition": "uprightness, extreme",
     "exampleSentence": null
-  },
-  {
-    "word": "redoubtable",
-    "partOfSpeech": "adjective",
-    "definition": "formidable",
-    "exampleSentence": "The fortress looked redoubtable  set against a stormy sky."
   },
   {
     "word": "refract",
     "partOfSpeech": "verb",
-    "definition": "to",
-    "exampleSentence": "The light was refracted  as it passed through the prism."
+    "definition": "to distort, change",
+    "exampleSentence": null
   },
   {
     "word": "refurbish",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to restore, clean up",
     "exampleSentence": null
   },
   {
     "word": "refute",
     "partOfSpeech": "verb",
-    "definition": "to",
-    "exampleSentence": null
-  },
-  {
-    "word": "regurgitate",
-    "partOfSpeech": "verb",
-    "definition": "to",
-    "exampleSentence": "Feeling sick, Chuck regurgitated  his dinner."
-  },
-  {
-    "word": "relegate",
-    "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to prove",
     "exampleSentence": null
   },
   {
     "word": "relish",
     "partOfSpeech": "verb",
-    "definition": "to",
-    "exampleSentence": "Pete always relished  his bedtime snack."
+    "definition": "to enjoy",
+    "exampleSentence": null
   },
   {
     "word": "remedial",
     "partOfSpeech": "adjective",
-    "definition": "intended",
+    "definition": "intended to repair gaps in students’ basic knowledge",
     "exampleSentence": null
   },
   {
     "word": "remiss",
     "partOfSpeech": "adjective",
-    "definition": "negligent, failing to take",
+    "definition": "negligent, failing to take care",
     "exampleSentence": null
   },
   {
     "word": "renown",
     "partOfSpeech": "noun",
-    "definition": "honor,",
+    "definition": "honor, acclaim",
     "exampleSentence": null
   },
   {
     "word": "renunciation",
     "partOfSpeech": "noun",
-    "definition": "to",
+    "definition": "to reject",
     "exampleSentence": null
   },
   {
     "word": "repentant",
     "partOfSpeech": "adjective",
-    "definition": "penitent,",
+    "definition": "penitent, sorry",
     "exampleSentence": null
   },
   {
     "word": "replete",
     "partOfSpeech": "adjective",
-    "definition": "full,",
-    "exampleSentence": "The unedited version was replete  with naughty words."
+    "definition": "full, abundant",
+    "exampleSentence": null
   },
   {
     "word": "repose",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to rest, lie down",
     "exampleSentence": null
   },
   {
     "word": "reprehensible",
     "partOfSpeech": "adjective",
-    "definition": "deserving",
+    "definition": "deserving rebuke",
     "exampleSentence": null
   },
   {
     "word": "reprieve",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a temporary delay of punishment",
     "exampleSentence": null
   },
   {
     "word": "reproach",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to scold, disapprove",
     "exampleSentence": null
   },
   {
     "word": "reprobate",
     "partOfSpeech": "adjective",
-    "definition": "evil,",
-    "exampleSentence": "The reprobate  criminal sat sneering in the cell."
+    "definition": "evil, unprincipled",
+    "exampleSentence": null
   },
   {
     "word": "reprove",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to scold, rebuke",
     "exampleSentence": null
   },
   {
     "word": "repudiate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to reject, refuse to",
     "exampleSentence": null
-  },
-  {
-    "word": "repulse",
-    "partOfSpeech": "verb",
-    "definition": "to",
-    "exampleSentence": "Antisocial Annie tried to repulse  people by neglecting to brush her teeth."
   },
   {
     "word": "reputable",
     "partOfSpeech": "adjective",
-    "definition": "of",
+    "definition": "of good reputation",
     "exampleSentence": null
   },
   {
     "word": "requisition",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a demand for goods, usually made by an authority",
     "exampleSentence": null
   },
   {
     "word": "rescind",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to take back,",
     "exampleSentence": null
-  },
-  {
-    "word": "reservoir",
-    "partOfSpeech": "noun",
-    "definition": "reserves,",
-    "exampleSentence": "Igor the Indomitable had quite a reservoir  of strengh and could lift ten tons, even after running 700 miles, jumping over three mountains, and swimming across an ocean."
   },
   {
     "word": "resilient",
     "partOfSpeech": "adjective",
-    "definition": "able",
+    "definition": "able to recover from misfortune; able to withstand adversity",
     "exampleSentence": null
   },
   {
@@ -4518,33 +4254,27 @@
     "exampleSentence": null
   },
   {
-    "word": "resolve",
-    "partOfSpeech": "verb",
-    "definition": "to ﬁnd",
-    "exampleSentence": "Sarah and Emma resolved hands."
-  },
-  {
     "word": "respite",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a break, rest",
     "exampleSentence": null
   },
   {
     "word": "resplendent",
     "partOfSpeech": "adjective",
-    "definition": "shiny,",
+    "definition": "shiny, glowing",
     "exampleSentence": null
   },
   {
     "word": "restitution",
     "partOfSpeech": "noun",
-    "definition": "restoration",
+    "definition": "restoration to the rightful owner",
     "exampleSentence": null
   },
   {
     "word": "restive",
     "partOfSpeech": "adjective",
-    "definition": "resistant,",
+    "definition": "resistant, stubborn, impatient",
     "exampleSentence": null
   },
   {
@@ -4556,103 +4286,103 @@
   {
     "word": "revel",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to enjoy intensely",
     "exampleSentence": null
   },
   {
     "word": "revere",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to esteem, show deference, venerate",
     "exampleSentence": null
   },
   {
     "word": "revoke",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to take back",
     "exampleSentence": null
   },
   {
     "word": "rhapsodize",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to engage in excessive enthusiasm",
     "exampleSentence": null
   },
   {
     "word": "ribald",
     "partOfSpeech": "adjective",
-    "definition": "coarsely,",
+    "definition": "coarsely, crudely humorous",
     "exampleSentence": null
   },
   {
     "word": "ruminate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to contemplate, reﬂect",
     "exampleSentence": null
   },
   {
     "word": "ruse",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a trick",
     "exampleSentence": null
   },
   {
     "word": "saccharine",
     "partOfSpeech": "adjective",
-    "definition": "sickeningly",
+    "definition": "sickeningly sweet",
     "exampleSentence": null
   },
   {
     "word": "sacrosanct",
     "partOfSpeech": "adjective",
-    "definition": "holy,",
+    "definition": "holy, something that should not be criticized",
     "exampleSentence": null
   },
   {
     "word": "sagacity",
     "partOfSpeech": "noun",
-    "definition": "shrewdness,",
+    "definition": "shrewdness, soundness of perspective",
     "exampleSentence": null
   },
   {
     "word": "salient",
     "partOfSpeech": "adjective",
-    "definition": "signiﬁcant,",
+    "definition": "signiﬁcant, conspicuous",
     "exampleSentence": null
   },
   {
     "word": "salutation",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a greeting",
     "exampleSentence": null
   },
   {
     "word": "salve",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a soothing balm",
     "exampleSentence": null
   },
   {
     "word": "sanctimonious",
     "partOfSpeech": "adjective",
-    "definition": "giving",
+    "definition": "giving a hypocritical appearance of piety",
     "exampleSentence": null
   },
   {
     "word": "sanguine",
     "partOfSpeech": "adjective",
-    "definition": "optimistic,",
+    "definition": "optimistic, cheery",
     "exampleSentence": null
   },
   {
     "word": "satiate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to satisfy excessively",
     "exampleSentence": null
   },
   {
     "word": "scathing",
     "partOfSpeech": "adjective",
-    "definition": "sharp,",
+    "definition": "sharp, critical, hurtful",
     "exampleSentence": null
   },
   {
@@ -4664,55 +4394,55 @@
   {
     "word": "scrupulous",
     "partOfSpeech": "adjective",
-    "definition": "painstaking,",
+    "definition": "painstaking, careful",
     "exampleSentence": null
   },
   {
     "word": "scurrilous",
     "partOfSpeech": "adjective",
-    "definition": "vulgar,",
+    "definition": "vulgar, coarse",
     "exampleSentence": null
   },
   {
     "word": "sedentary",
     "partOfSpeech": "adjective",
-    "definition": "sitting,",
+    "definition": "sitting, settled",
     "exampleSentence": null
   },
   {
     "word": "semaphore",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a visual signal",
     "exampleSentence": null
   },
   {
     "word": "seminal",
     "partOfSpeech": "adjective",
-    "definition": "original,",
+    "definition": "original, important, creating a ﬁeld",
     "exampleSentence": null
   },
   {
     "word": "sensual",
     "partOfSpeech": "adjective",
-    "definition": "involving",
+    "definition": "involving sensory gratiﬁcation, usually related to sex",
     "exampleSentence": null
   },
   {
     "word": "sensuous",
     "partOfSpeech": "adjective",
-    "definition": "involving",
+    "definition": "involving sensory gratiﬁcation",
     "exampleSentence": null
   },
   {
     "word": "serendipity",
     "partOfSpeech": "noun",
-    "definition": "luck, ﬁnding",
+    "definition": "luck, ﬁnding good things without looking for them",
     "exampleSentence": null
   },
   {
     "word": "serene",
     "partOfSpeech": "adjective",
-    "definition": "calm,",
+    "definition": "calm, untroubled",
     "exampleSentence": null
   },
   {
@@ -4724,127 +4454,121 @@
   {
     "word": "sinuous",
     "partOfSpeech": "adjective",
-    "definition": "lithe,",
+    "definition": "lithe, serpentine",
     "exampleSentence": null
   },
   {
     "word": "sobriety",
     "partOfSpeech": "noun",
-    "definition": "sedate,",
+    "definition": "sedate, calm",
     "exampleSentence": null
   },
   {
     "word": "solicitous",
     "partOfSpeech": "adjective",
-    "definition": "concerned,",
+    "definition": "concerned, attentive",
     "exampleSentence": null
   },
   {
     "word": "solipsistic",
     "partOfSpeech": "adjective",
-    "definition": "believing",
-    "exampleSentence": null
-  },
-  {
-    "word": "solvent",
-    "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "believing that oneself is all that",
     "exampleSentence": null
   },
   {
     "word": "somnolent",
     "partOfSpeech": "adjective",
-    "definition": "sleepy,",
+    "definition": "sleepy, drowsy",
     "exampleSentence": null
   },
   {
     "word": "sophomoric",
     "partOfSpeech": "adjective",
-    "definition": "immature,",
+    "definition": "immature, uninformed",
     "exampleSentence": null
   },
   {
     "word": "sovereign",
     "partOfSpeech": "adjective",
-    "definition": "having",
+    "definition": "having absolute authority in a certain realm",
     "exampleSentence": null
   },
   {
     "word": "speculative",
     "partOfSpeech": "adjective",
-    "definition": "not",
+    "definition": "not based in fact",
     "exampleSentence": null
   },
   {
     "word": "spurious",
     "partOfSpeech": "adjective",
-    "definition": "false",
+    "definition": "false but designed to seem plausible",
     "exampleSentence": null
   },
   {
     "word": "stagnate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to become or remain inactive, not develop, not ﬂow",
     "exampleSentence": null
   },
   {
     "word": "staid",
     "partOfSpeech": "adjective",
-    "definition": "sedate,",
+    "definition": "sedate, serious, self-restrained",
     "exampleSentence": null
   },
   {
     "word": "stingy",
     "partOfSpeech": "adjective",
-    "definition": "not",
+    "definition": "not generous, not inclined to spend or give",
     "exampleSentence": null
   },
   {
     "word": "stoic",
     "partOfSpeech": "adjective",
-    "definition": "unaffected",
+    "definition": "unaffected by passion or feeling",
     "exampleSentence": null
   },
   {
     "word": "stolid",
     "partOfSpeech": "adjective",
-    "definition": "expressing",
+    "definition": "expressing little sensibility, unemotional",
     "exampleSentence": null
   },
   {
     "word": "strenuous",
     "partOfSpeech": "adjective",
-    "definition": "requiring",
+    "definition": "requiring tremendous energy or stamina",
     "exampleSentence": null
   },
   {
     "word": "strident",
     "partOfSpeech": "adjective",
-    "definition": "harsh,",
+    "definition": "harsh, loud",
     "exampleSentence": null
   },
   {
     "word": "stupefy",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to astonish, make insensible",
     "exampleSentence": null
   },
   {
     "word": "subjugate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to bring under control, subdue",
     "exampleSentence": null
   },
   {
     "word": "sublime",
     "partOfSpeech": "adjective",
-    "definition": "lofty,",
+    "definition": "lofty, grand, exalted",
     "exampleSentence": null
   },
   {
     "word": "submissive",
     "partOfSpeech": "adjective",
-    "definition": "easily",
+    "definition": "easily yielding to authority",
     "exampleSentence": null
   },
   {
@@ -4856,13 +4580,13 @@
   {
     "word": "surfeit",
     "partOfSpeech": "noun",
-    "definition": "an",
+    "definition": "an overabundant supply or indulgence",
     "exampleSentence": null
   },
   {
     "word": "surmise",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to infer with little evidence",
     "exampleSentence": null
   },
   {
@@ -4874,109 +4598,109 @@
   {
     "word": "surrogate",
     "partOfSpeech": "noun",
-    "definition": "one",
+    "definition": "one acting in place of another",
     "exampleSentence": null
   },
   {
     "word": "swarthy",
     "partOfSpeech": "adjective",
-    "definition": "of",
+    "definition": "of dark color or complexion",
     "exampleSentence": null
   },
   {
     "word": "sycophant",
     "partOfSpeech": "noun",
-    "definition": "one",
+    "definition": "one who ﬂatters for self-gain",
     "exampleSentence": null
   },
   {
     "word": "tacit",
     "partOfSpeech": "adjective",
-    "definition": "expressed",
+    "definition": "expressed without words",
     "exampleSentence": null
   },
   {
     "word": "taciturn",
     "partOfSpeech": "adjective",
-    "definition": "not",
+    "definition": "not inclined to talk",
     "exampleSentence": null
   },
   {
     "word": "tangential",
     "partOfSpeech": "adjective",
-    "definition": "incidental,",
+    "definition": "incidental, peripheral, divergent",
     "exampleSentence": null
   },
   {
     "word": "tantamount",
     "partOfSpeech": "adjective",
-    "definition": "equivalent",
+    "definition": "equivalent in value or signiﬁcance",
     "exampleSentence": null
   },
   {
     "word": "temerity",
     "partOfSpeech": "noun",
-    "definition": "audacity,",
+    "definition": "audacity, recklessness",
     "exampleSentence": null
   },
   {
     "word": "temperance",
     "partOfSpeech": "noun",
-    "definition": "moderation",
+    "definition": "moderation in action or thought",
     "exampleSentence": null
   },
   {
     "word": "tenable",
     "partOfSpeech": "adjective",
-    "definition": "able",
+    "definition": "able to be defended or maintained",
     "exampleSentence": null
   },
   {
     "word": "tenuous",
     "partOfSpeech": "adjective",
-    "definition": "having",
+    "definition": "having little substance or strength",
     "exampleSentence": null
   },
   {
     "word": "terrestrial",
     "partOfSpeech": "adjective",
-    "definition": "relating",
-    "exampleSentence": "Elephants are terrestrial  animals."
+    "definition": "relating to the land",
+    "exampleSentence": null
   },
   {
     "word": "timorous",
     "partOfSpeech": "adjective",
-    "definition": "timid,",
+    "definition": "timid, fearful",
     "exampleSentence": null
   },
   {
     "word": "tirade",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a long speech marked by harsh or biting language",
     "exampleSentence": null
   },
   {
     "word": "toady",
     "partOfSpeech": "noun",
-    "definition": "one",
+    "definition": "one who ﬂatters in the hope of gaining favors",
     "exampleSentence": null
   },
   {
     "word": "tome",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a large book",
     "exampleSentence": null
   },
   {
     "word": "torpid",
     "partOfSpeech": "adjective",
-    "definition": "lethargic,",
+    "definition": "lethargic, dormant, lacking motion",
     "exampleSentence": null
   },
   {
     "word": "torrid",
     "partOfSpeech": "adjective",
-    "definition": "giving",
+    "definition": "giving off intense heat, passionate",
     "exampleSentence": null
   },
   {
@@ -4988,7 +4712,7 @@
   {
     "word": "tractable",
     "partOfSpeech": "adjective",
-    "definition": "easily",
+    "definition": "easily controlled",
     "exampleSentence": null
   },
   {
@@ -5000,25 +4724,25 @@
   {
     "word": "transgress",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to violate, go over a limit",
     "exampleSentence": null
   },
   {
     "word": "transient",
     "partOfSpeech": "adjective",
-    "definition": "passing",
+    "definition": "passing through brieﬂy; passing into and out of existence",
     "exampleSentence": null
   },
   {
     "word": "transmute",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to change or alter in form",
     "exampleSentence": null
   },
   {
     "word": "travesty",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a grossly inferior imitation",
     "exampleSentence": null
   },
   {
@@ -5030,205 +4754,205 @@
   {
     "word": "trenchant",
     "partOfSpeech": "adjective",
-    "definition": "effective,",
+    "definition": "effective, articulate, clear-cut",
     "exampleSentence": null
   },
   {
     "word": "trepidation",
     "partOfSpeech": "noun",
-    "definition": "fear,",
+    "definition": "fear, apprehension",
     "exampleSentence": null
   },
   {
     "word": "trite",
     "partOfSpeech": "adjective",
-    "definition": "not",
+    "definition": "not original, overused",
     "exampleSentence": null
   },
   {
     "word": "truculent",
     "partOfSpeech": "adjective",
-    "definition": "ready",
+    "definition": "ready to ﬁght, cruel",
     "exampleSentence": null
   },
   {
     "word": "truncate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to shorten by cutting off",
     "exampleSentence": null
   },
   {
     "word": "turgid",
     "partOfSpeech": "adjective",
-    "definition": "swollen,",
+    "definition": "swollen, excessively embellished in style or language",
     "exampleSentence": null
   },
   {
     "word": "turpitude",
     "partOfSpeech": "noun",
-    "definition": "depravity,",
+    "definition": "depravity, moral corruption",
     "exampleSentence": null
   },
   {
     "word": "ubiquitous",
     "partOfSpeech": "adjective",
-    "definition": "existing",
+    "definition": "existing everywhere, widespread",
     "exampleSentence": null
   },
   {
     "word": "umbrage",
     "partOfSpeech": "noun",
-    "definition": "resentment,",
+    "definition": "resentment, offense",
     "exampleSentence": null
   },
   {
     "word": "unctuous",
     "partOfSpeech": "adjective",
-    "definition": "smooth",
+    "definition": "smooth or greasy in texture, appearance, manner",
     "exampleSentence": null
   },
   {
     "word": "undulate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to move in waves",
     "exampleSentence": null
   },
   {
     "word": "upbraid",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to criticize or scold severely",
     "exampleSentence": null
   },
   {
     "word": "usurp",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to seize by force, take possession of without right",
     "exampleSentence": null
   },
   {
     "word": "utilitarian",
     "partOfSpeech": "adjective",
-    "definition": "relating",
+    "definition": "relating to or aiming at usefulness",
     "exampleSentence": null
   },
   {
     "word": "utopia",
     "partOfSpeech": "noun",
-    "definition": "an",
+    "definition": "an imaginary and remote place of perfection",
     "exampleSentence": null
   },
   {
     "word": "vacillate",
     "partOfSpeech": "verb",
-    "definition": "to ﬂuctuate,",
+    "definition": "to ﬂuctuate, hesitate",
     "exampleSentence": null
   },
   {
     "word": "vacuous",
     "partOfSpeech": "adjective",
-    "definition": "lack",
+    "definition": "lack of content or ideas, stupid",
     "exampleSentence": null
   },
   {
     "word": "validate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to conﬁrm, support, corroborate",
     "exampleSentence": null
   },
   {
     "word": "vapid",
     "partOfSpeech": "adjective",
-    "definition": "lacking",
+    "definition": "lacking liveliness, dull",
     "exampleSentence": null
   },
   {
     "word": "variegated",
     "partOfSpeech": "adjective",
-    "definition": "diversiﬁed,",
+    "definition": "diversiﬁed, distinctly marked",
     "exampleSentence": null
   },
   {
     "word": "vehemently",
     "partOfSpeech": "adverb",
-    "definition": "marked",
+    "definition": "marked by intense force or emotion",
     "exampleSentence": null
   },
   {
     "word": "veneer",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a superﬁcial or deceptively attractive appearance, façade",
     "exampleSentence": null
   },
   {
     "word": "venerable",
     "partOfSpeech": "adjective",
-    "definition": "deserving",
+    "definition": "deserving of respect because of age or achievement",
     "exampleSentence": null
   },
   {
     "word": "venerate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to regard with respect or to honor",
     "exampleSentence": null
   },
   {
     "word": "veracity",
     "partOfSpeech": "noun",
-    "definition": "truthfulness,",
+    "definition": "truthfulness, accuracy",
     "exampleSentence": null
   },
   {
     "word": "verbose",
     "partOfSpeech": "adjective",
-    "definition": "wordy,",
+    "definition": "wordy, impaired by wordiness",
     "exampleSentence": null
   },
   {
     "word": "verdant",
     "partOfSpeech": "adjective",
-    "definition": "green",
+    "definition": "green in tint or color",
     "exampleSentence": null
   },
   {
     "word": "vestige",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a mark or trace of something lost or vanished",
     "exampleSentence": null
   },
   {
     "word": "vex",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to confuse or annoy",
     "exampleSentence": null
   },
   {
     "word": "vicarious",
     "partOfSpeech": "adjective",
-    "definition": "experiencing",
+    "definition": "experiencing through another",
     "exampleSentence": null
   },
   {
     "word": "vicissitude",
     "partOfSpeech": "noun",
-    "definition": "event",
+    "definition": "event that occurs by chance",
     "exampleSentence": null
   },
   {
     "word": "vigilant",
     "partOfSpeech": "adjective",
-    "definition": "watchful,",
+    "definition": "watchful, alert",
     "exampleSentence": null
   },
   {
     "word": "vilify",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to lower in importance, defame",
     "exampleSentence": null
   },
   {
     "word": "vindicate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to avenge; to free from allegation; to set free",
     "exampleSentence": null
   },
   {
@@ -5240,115 +4964,115 @@
   {
     "word": "virtuoso",
     "partOfSpeech": "noun",
-    "definition": "one",
+    "definition": "one who excels in an art; a highly skilled musical performer",
     "exampleSentence": null
   },
   {
     "word": "vitriolic",
     "partOfSpeech": "adjective",
-    "definition": "having",
+    "definition": "having a caustic quality",
     "exampleSentence": null
   },
   {
     "word": "vituperate",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to berate",
     "exampleSentence": null
   },
   {
     "word": "vivacious",
     "partOfSpeech": "adjective",
-    "definition": "lively,",
+    "definition": "lively, sprightly",
     "exampleSentence": null
   },
   {
     "word": "vocation",
     "partOfSpeech": "noun",
-    "definition": "the",
+    "definition": "the work in which someone is employed, profession",
     "exampleSentence": null
   },
   {
     "word": "vociferous",
     "partOfSpeech": "adjective",
-    "definition": "loud,",
+    "definition": "loud, boisterous",
     "exampleSentence": null
   },
   {
     "word": "wallow",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to roll oneself indolently; to become or remain helpless",
     "exampleSentence": null
   },
   {
     "word": "wane",
     "partOfSpeech": "verb",
-    "definition": "to",
+    "definition": "to decrease in size, dwindle",
     "exampleSentence": null
   },
   {
     "word": "wanton",
     "partOfSpeech": "adjective",
-    "definition": "undisciplined,",
+    "definition": "undisciplined, lewd, lustful",
     "exampleSentence": null
   },
   {
     "word": "whimsical",
     "partOfSpeech": "adjective",
-    "definition": "fanciful,",
+    "definition": "fanciful, full of whims",
     "exampleSentence": null
   },
   {
     "word": "wily",
     "partOfSpeech": "adjective",
-    "definition": "crafty,",
+    "definition": "crafty, sly",
     "exampleSentence": null
   },
   {
     "word": "winsome",
     "partOfSpeech": "adjective",
-    "definition": "charming,",
+    "definition": "charming, pleasing",
     "exampleSentence": null
   },
   {
     "word": "wistful",
     "partOfSpeech": "adjective",
-    "definition": "full",
+    "definition": "full of yearning; musingly sad",
     "exampleSentence": null
   },
   {
     "word": "wizened",
     "partOfSpeech": "adjective",
-    "definition": "dry,",
+    "definition": "dry, shrunken, wrinkled",
     "exampleSentence": null
   },
   {
     "word": "wrath",
     "partOfSpeech": "noun",
-    "definition": "vengeful",
+    "definition": "vengeful anger, punishment",
     "exampleSentence": null
   },
   {
     "word": "yoke",
     "partOfSpeech": "verb",
-    "definition": "to",
-    "exampleSentence": "We yoked  together the logs by tying a string around them."
+    "definition": "to join, link",
+    "exampleSentence": null
   },
   {
     "word": "zealous",
     "partOfSpeech": "adjective",
-    "definition": "fervent, ﬁlled",
+    "definition": "fervent, ﬁlled with eagerness in pursuit of something",
     "exampleSentence": null
   },
   {
     "word": "zenith",
     "partOfSpeech": "noun",
-    "definition": "the",
+    "definition": "the highest point, culminating point",
     "exampleSentence": null
   },
   {
     "word": "zephyr",
     "partOfSpeech": "noun",
-    "definition": "a",
+    "definition": "a gentle breeze",
     "exampleSentence": null
   }
 ]
