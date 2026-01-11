@@ -274,7 +274,7 @@ export default function FlashcardsPage() {
       </nav>
 
       <div className="container">
-        <div style={{ marginBottom: '24px', display: 'flex', gap: '16px', alignItems: 'center' }}>
+        <div style={{ marginBottom: '24px', display: 'flex', gap: '16px', alignItems: 'center', flexWrap: 'wrap' }}>
           <label>
             Study Set Size:
             <select
@@ -290,7 +290,67 @@ export default function FlashcardsPage() {
           <button onClick={loadWords} className="btn btn-secondary">
             New Set
           </button>
+          <button 
+            onClick={() => setShowSavedSets(!showSavedSets)} 
+            className="btn btn-secondary"
+            style={{ padding: '8px 16px' }}
+          >
+            {showSavedSets ? 'Hide' : 'Show'} Saved Sets ({savedSets.length})
+          </button>
         </div>
+        
+        {showSavedSets && savedSets.length > 0 && (
+          <div style={{ marginBottom: '24px', padding: '16px', backgroundColor: '#f3f4f6', borderRadius: '8px' }}>
+            <h3 style={{ marginBottom: '12px', fontSize: '18px' }}>Saved Flashcard Sets</h3>
+            <div style={{ display: 'flex', flexDirection: 'column', gap: '8px' }}>
+              {savedSets.map((set) => (
+                <div 
+                  key={set.id} 
+                  style={{ 
+                    display: 'flex', 
+                    justifyContent: 'space-between', 
+                    alignItems: 'center', 
+                    padding: '12px', 
+                    backgroundColor: '#fff', 
+                    borderRadius: '4px',
+                    border: '1px solid #e5e7eb'
+                  }}
+                >
+                  <div>
+                    <div style={{ fontWeight: '500' }}>
+                      {set.wordCount} words
+                    </div>
+                    <div style={{ fontSize: '12px', color: '#6b7280' }}>
+                      {new Date(set.createdAt).toLocaleDateString()} {new Date(set.createdAt).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}
+                    </div>
+                  </div>
+                  <div style={{ display: 'flex', gap: '8px' }}>
+                    <button
+                      onClick={() => loadSavedSet(set)}
+                      className="btn"
+                      style={{ padding: '6px 12px', fontSize: '14px' }}
+                    >
+                      Load
+                    </button>
+                    <button
+                      onClick={() => deleteSavedSet(set.id)}
+                      className="btn btn-danger"
+                      style={{ padding: '6px 12px', fontSize: '14px' }}
+                    >
+                      Delete
+                    </button>
+                  </div>
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
+        
+        {showSavedSets && savedSets.length === 0 && (
+          <div style={{ marginBottom: '24px', padding: '16px', backgroundColor: '#f3f4f6', borderRadius: '8px', textAlign: 'center', color: '#6b7280' }}>
+            No saved sets yet. Complete a flashcard session to save it here.
+          </div>
+        )}
 
         <div style={{ maxWidth: '600px', margin: '0 auto' }}>
           <div className="card" style={{ minHeight: '400px', position: 'relative' }}>
