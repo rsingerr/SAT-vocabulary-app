@@ -21,6 +21,8 @@ export default function FlashcardsPage() {
   const [studySetSize, setStudySetSize] = useState(20)
   const [loading, setLoading] = useState(true)
   const [stats, setStats] = useState({ correct: 0, total: 0 })
+  const [sessionComplete, setSessionComplete] = useState(false)
+  const [studySetWordIds, setStudySetWordIds] = useState<string[]>([])
 
   useEffect(() => {
     loadWords()
@@ -28,10 +30,12 @@ export default function FlashcardsPage() {
 
   const loadWords = async () => {
     setLoading(true)
+    setSessionComplete(false)
     try {
       const response = await fetch(`/api/words?limit=${studySetSize}&random=true`)
       const data = await response.json()
       setWords(data)
+      setStudySetWordIds(data.map((w: Word) => w.id))
       setCurrentIndex(0)
       setIsFlipped(false)
       setShowSynonyms(false)
@@ -41,6 +45,20 @@ export default function FlashcardsPage() {
     } finally {
       setLoading(false)
     }
+  }
+  
+  const redoSet = () => {
+    setCurrentIndex(0)
+    setIsFlipped(false)
+    setShowSynonyms(false)
+    setStats({ correct: 0, total: 0 })
+    setSessionComplete(false)
+  }
+  
+  const startCrossword = () => {
+    // Navigate to crossword page with word IDs
+    const wordIdsParam = studySetWordIds.join(',')
+    window.location.href = `/crossword?wordIds=${wordIdsParam}`
   }
 
   const handleKnowIt = async () => {
@@ -82,10 +100,13 @@ export default function FlashcardsPage() {
       setShowSynonyms(false)
     } else {
       // Study set complete
-      alert(`Study session complete! Accuracy: ${((stats.correct / stats.total) * 100).toFixed(1)}%`)
-      loadWords()
+      setSessionComplete(true)
     }
   }
+  
+  const accuracy = stats.total > 0 ? (stats.correct / stats.total) * 100 : 0
+  const canRedo = sessionComplete && accuracy >= 75 && accuracy < 100
+  const canPlayCrossword = sessionComplete && accuracy === 100 && stats.total === words.length
 
   const currentWord = words[currentIndex]
   const synonyms = currentWord?.synonyms
@@ -271,9 +292,46 @@ export default function FlashcardsPage() {
               color: '#6b7280',
             }}
           >
-            Accuracy: {stats.total > 0 ? ((stats.correct / stats.total) * 100).toFixed(1) : 0}% (
-            {stats.correct} / {stats.total})
+            Accuracy: {accuracy.toFixed(1)}% ({stats.correct} / {stats.total})
           </div>
+
+          {sessionComplete && (
+            <div style={{ marginTop: '24px', textAlign: 'center' }}>
+              {canPlayCrossword && (
+                <div style={{ marginBottom: '16px' }}>
+                  <p style={{ marginBottom: '16px', fontSize: '18px', color: '#059669', fontWeight: 'bold' }}>
+                    Perfect! You got 100%! 🎉
+                  </p>
+                  <button onClick={startCrossword} className="btn btn-success" style={{ fontSize: '16px', padding: '12px 24px' }}>
+                    Play Crossword Puzzle with These Words
+                  </button>
+                </div>
+              )}
+              {canRedo && (
+                <div style={{ marginBottom: '16px' }}>
+                  <p style={{ marginBottom: '16px', fontSize: '16px', color: '#6b7280' }}>
+                    Great job! You got {stats.correct} out of {stats.total} correct ({accuracy.toFixed(1)}%).
+                  </p>
+                  <button onClick={redoSet} className="btn" style={{ fontSize: '16px', padding: '12px 24px', marginRight: '12px' }}>
+                    Redo This Set
+                  </button>
+                  <button onClick={loadWords} className="btn btn-secondary" style={{ fontSize: '16px', padding: '12px 24px' }}>
+                    New Set
+                  </button>
+                </div>
+              )}
+              {!canRedo && !canPlayCrossword && (
+                <div style={{ marginBottom: '16px' }}>
+                  <p style={{ marginBottom: '16px', fontSize: '16px', color: '#6b7280' }}>
+                    Study session complete! Accuracy: {accuracy.toFixed(1)}%
+                  </p>
+                  <button onClick={loadWords} className="btn" style={{ fontSize: '16px', padding: '12px 24px' }}>
+                    New Set
+                  </button>
+                </div>
+              )}
+            </div>
+          )}
         </div>
       </div>
     </>

@@ -1,7 +1,8 @@
 'use client'
 
-import { useEffect, useState, useCallback, useRef } from 'react'
+import { useEffect, useState, useCallback, useRef, Suspense } from 'react'
 import Link from 'next/link'
+import { useSearchParams } from 'next/navigation'
 
 interface GridCell {
   letter: string | null
@@ -28,7 +29,8 @@ interface CrosswordWord {
   clue: string
 }
 
-export default function CrosswordPage() {
+function CrosswordPageContent() {
+  const searchParams = useSearchParams()
   const [grid, setGrid] = useState<GridCell[][]>([])
   const [words, setWords] = useState<CrosswordWord[]>([])
   const [userGrid, setUserGrid] = useState<string[][]>([])
@@ -41,6 +43,8 @@ export default function CrosswordPage() {
   const [isPaused, setIsPaused] = useState(false)
   const [puzzleId, setPuzzleId] = useState<string | null>(null)
   const timerInterval = useRef<NodeJS.Timeout | null>(null)
+  const [flashState, setFlashState] = useState<{ [key: string]: 'red' | 'green' | null }>({})
+  const [completedWords, setCompletedWords] = useState<Set<number>>(new Set())
 
   useEffect(() => {
     if (!isPaused && timer > 0) {
@@ -59,13 +63,28 @@ export default function CrosswordPage() {
     setLoading(true)
     setTimer(0)
     setIsPaused(false)
+    setFlashState({})
+    setCompletedWords(new Set())
     try {
+      // Check for wordIds in URL params (from flashcard study)
+      const wordIdsParam = searchParams.get('wordIds')
+      const wordIds = wordIdsParam ? wordIdsParam.split(',') : undefined
+      
       const response = await fetch('/api/crosswords/generate', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ wordCount, difficulty }),
+        body: JSON.stringify({ 
+          wordCount: wordIds ? wordIds.length : wordCount, 
+          difficulty,
+          wordIds,
+        }),
       })
       const data = await response.json()
+      
+      if (data.error) {
+        alert(data.error)
+        return
+      }
       
       setGrid(data.grid)
       setWords(data.words)
@@ -84,6 +103,14 @@ export default function CrosswordPage() {
       setLoading(false)
     }
   }
+  
+  useEffect(() => {
+    // Auto-generate if wordIds are in URL
+    const wordIdsParam = searchParams.get('wordIds')
+    if (wordIdsParam && grid.length === 0 && !loading) {
+      generatePuzzle()
+    }
+  }, [])
 
   const getCurrentWord = useCallback((): CrosswordWord | null => {
     if (!selectedCell || grid.length === 0) return null
@@ -145,8 +172,28 @@ export default function CrosswordPage() {
     
     if (e.key.length === 1 && /[a-zA-Z]/.test(e.key)) {
       const newGrid = [...userGrid]
-      newGrid[row][col] = e.key.toUpperCase()
+      const userLetter = e.key.toUpperCase()
+      const correctLetter = grid[row][col].letter?.toUpperCase()
+      newGrid[row][col] = userLetter
       setUserGrid(newGrid)
+      
+      // Check if letter is correct or wrong
+      const cellKey = `${row}-${col}`
+      if (correctLetter && userLetter !== correctLetter) {
+        // Wrong letter - flash red
+        setFlashState({ ...flashState, [cellKey]: 'red' })
+        setTimeout(() => {
+          setFlashState((prev) => {
+            const next = { ...prev }
+            delete next[cellKey]
+            return next
+          })
+        }, 500)
+      }
+      // If correct, no visual feedback (as requested)
+      
+      // Check if word is complete and correct
+      checkWordComplete(currentWord)
       
       // Auto-advance
       const pos = currentWord.position
@@ -183,6 +230,46 @@ export default function CrosswordPage() {
     alert(user === correct ? 'Correct!' : `Incorrect. The correct letter is ${correct}`)
   }
 
+  const checkWordComplete = useCallback((word: CrosswordWord) => {
+    if (!word) return
+    const pos = word.position
+    let allCorrect = true
+    const correctWord = word.word.word.toUpperCase()
+    
+    // Check if word is complete (all cells filled)
+    let allFilled = true
+    for (let i = 0; i < correctWord.length; i++) {
+      const row = pos.direction === 'across' ? pos.row : pos.row + i
+      const col = pos.direction === 'across' ? pos.col + i : pos.col
+      if (!userGrid[row]?.[col]) {
+        allFilled = false
+        break
+      }
+      if (userGrid[row]?.[col] !== correctWord[i]) {
+        allCorrect = false
+      }
+    }
+    
+    if (allFilled && allCorrect && !completedWords.has(word.position.number)) {
+      // Word is complete and correct - flash green
+      setCompletedWords((prev) => new Set([...prev, word.position.number]))
+      const newFlashState: { [key: string]: 'green' } = {}
+      for (let i = 0; i < correctWord.length; i++) {
+        const row = pos.direction === 'across' ? pos.row : pos.row + i
+        const col = pos.direction === 'across' ? pos.col + i : pos.col
+        newFlashState[`${row}-${col}`] = 'green'
+      }
+      setFlashState((prev) => ({ ...prev, ...newFlashState }))
+      setTimeout(() => {
+        setFlashState((prev) => {
+          const next = { ...prev }
+          Object.keys(newFlashState).forEach((key) => delete next[key])
+          return next
+        })
+      }, 500)
+    }
+  }, [userGrid, completedWords])
+  
   const checkWord = () => {
     const currentWord = getCurrentWord()
     if (!currentWord) return
@@ -338,11 +425,13 @@ export default function CrosswordPage() {
                         width: '32px',
                         height: '32px',
                         border: '1px solid #d1d5db',
-                        backgroundColor: cell.isBlack
-                          ? '#000'
-                          : selectedCell?.row === rowIdx && selectedCell?.col === colIdx
-                          ? '#dbeafe'
-                          : currentWord &&
+                        backgroundColor: (() => {
+                          const cellKey = `${rowIdx}-${colIdx}`
+                          if (cell.isBlack) return '#000'
+                          if (flashState[cellKey] === 'red') return '#fee2e2'
+                          if (flashState[cellKey] === 'green') return '#d1fae5'
+                          if (selectedCell?.row === rowIdx && selectedCell?.col === colIdx) return '#dbeafe'
+                          if (currentWord &&
                             ((direction === 'across' &&
                               currentWord.position.row === rowIdx &&
                               colIdx >= currentWord.position.col &&
@@ -350,9 +439,10 @@ export default function CrosswordPage() {
                               (direction === 'down' &&
                                 currentWord.position.col === colIdx &&
                                 rowIdx >= currentWord.position.row &&
-                                rowIdx < currentWord.position.row + currentWord.word.word.length))
-                          ? '#e0e7ff'
-                          : '#fff',
+                                rowIdx < currentWord.position.row + currentWord.word.word.length)))
+                            return '#e0e7ff'
+                          return '#fff'
+                        })(),
                         display: 'flex',
                         alignItems: 'center',
                         justifyContent: 'center',
@@ -360,6 +450,7 @@ export default function CrosswordPage() {
                         fontWeight: 'bold',
                         cursor: cell.isBlack ? 'default' : 'pointer',
                         position: 'relative',
+                        transition: flashState[`${rowIdx}-${colIdx}`] ? 'background-color 0.1s' : 'none',
                       }}
                     >
                       {cell.number && (

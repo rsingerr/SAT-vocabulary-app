@@ -5,7 +5,7 @@ import { CrosswordGenerator } from '@/lib/crossword-generator'
 export async function POST(request: NextRequest) {
   try {
     const body = await request.json()
-    const { wordCount = 15, difficulty = 'medium', seed } = body
+    let { wordCount = 15, difficulty = 'medium', seed, wordIds } = body
     
     if (![10, 15, 20].includes(wordCount)) {
       return NextResponse.json(
@@ -43,14 +43,24 @@ export async function POST(request: NextRequest) {
     }
     
     // Get words from database
-    const words = await prisma.word.findMany({
-      where: { difficulty },
-    })
-    
-    if (words.length < wordCount) {
-      // Fallback to all words if not enough for difficulty
-      const allWords = await prisma.word.findMany({})
-      words.push(...allWords.filter((w) => !words.find((dw) => dw.id === w.id)))
+    let words: any[]
+    if (wordIds && Array.isArray(wordIds) && wordIds.length > 0) {
+      // Use specific word IDs (from flashcard study set)
+      words = await prisma.word.findMany({
+        where: { id: { in: wordIds } },
+      })
+      wordCount = Math.min(wordCount, words.length)
+    } else {
+      // Get words by difficulty
+      words = await prisma.word.findMany({
+        where: { difficulty },
+      })
+      
+      if (words.length < wordCount) {
+        // Fallback to all words if not enough for difficulty
+        const allWords = await prisma.word.findMany({})
+        words.push(...allWords.filter((w) => !words.find((dw) => dw.id === w.id)))
+      }
     }
     
     if (words.length === 0) {
