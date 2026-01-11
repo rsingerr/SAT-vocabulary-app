@@ -29,7 +29,7 @@ interface CrosswordWord {
   clue: string
 }
 
-function CrosswordPageContent() {
+function CrosswordPage() {
   const searchParams = useSearchParams()
   const [grid, setGrid] = useState<GridCell[][]>([])
   const [words, setWords] = useState<CrosswordWord[]>([])
