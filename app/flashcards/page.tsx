@@ -13,6 +13,13 @@ interface Word {
   difficulty: string
 }
 
+interface SavedSet {
+  id: string
+  wordIds: string[]
+  createdAt: number
+  wordCount: number
+}
+
 export default function FlashcardsPage() {
   const [words, setWords] = useState<Word[]>([])
   const [currentIndex, setCurrentIndex] = useState(0)
@@ -24,10 +31,81 @@ export default function FlashcardsPage() {
   const [sessionComplete, setSessionComplete] = useState(false)
   const [studySetWordIds, setStudySetWordIds] = useState<string[]>([])
   const [wrongWordIds, setWrongWordIds] = useState<string[]>([])
+  const [savedSets, setSavedSets] = useState<SavedSet[]>([])
+  const [showSavedSets, setShowSavedSets] = useState(false)
 
   useEffect(() => {
     loadWords()
+    loadSavedSets()
   }, [studySetSize])
+  
+  const loadSavedSets = () => {
+    try {
+      const saved = localStorage.getItem('flashcardSavedSets')
+      if (saved) {
+        setSavedSets(JSON.parse(saved))
+      }
+    } catch (error) {
+      console.error('Failed to load saved sets:', error)
+    }
+  }
+  
+  const saveCurrentSet = () => {
+    if (studySetWordIds.length === 0) return
+    
+    const newSet: SavedSet = {
+      id: Date.now().toString(),
+      wordIds: [...studySetWordIds],
+      createdAt: Date.now(),
+      wordCount: studySetWordIds.length,
+    }
+    
+    const updatedSets = [newSet, ...savedSets].slice(0, 20) // Keep max 20 sets
+    setSavedSets(updatedSets)
+    
+    try {
+      localStorage.setItem('flashcardSavedSets', JSON.stringify(updatedSets))
+    } catch (error) {
+      console.error('Failed to save set:', error)
+    }
+  }
+  
+  const loadSavedSet = async (set: SavedSet) => {
+    setLoading(true)
+    setSessionComplete(false)
+    try {
+      const idsParam = set.wordIds.join(',')
+      const response = await fetch(`/api/words?ids=${idsParam}`)
+      const data = await response.json()
+      
+      if (data.length > 0) {
+        setWords(data)
+        setStudySetWordIds(set.wordIds)
+        setCurrentIndex(0)
+        setIsFlipped(false)
+        setShowSynonyms(false)
+        setStats({ correct: 0, total: 0 })
+        setWrongWordIds([])
+        setShowSavedSets(false)
+      }
+    } catch (error) {
+      console.error('Failed to load saved set:', error)
+      alert('Failed to load saved set. Please try again.')
+    } finally {
+      setLoading(false)
+    }
+  }
+  
+  const deleteSavedSet = (setId: string) => {
+    const updatedSets = savedSets.filter(s => s.id !== setId)
+    setSavedSets(updatedSets)
+    
+    try {
+      localStorage.setItem('flashcardSavedSets', JSON.stringify(updatedSets))
+    } catch (error) {
+      console.error('Failed to delete set:', error)
+    }
+  }
 
   const loadWords = async () => {
     setLoading(true)
@@ -139,6 +217,8 @@ export default function FlashcardsPage() {
     } else {
       // Study set complete
       setSessionComplete(true)
+      // Auto-save the set when completed
+      saveCurrentSet()
     }
   }
   
