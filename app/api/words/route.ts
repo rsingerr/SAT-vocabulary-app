@@ -7,6 +7,16 @@ export async function GET(request: NextRequest) {
     const difficulty = searchParams.get('difficulty')
     const limit = searchParams.get('limit')
     const random = searchParams.get('random') === 'true'
+    const ids = searchParams.get('ids')
+    
+    // If IDs are provided (comma-separated), fetch those specific words
+    if (ids) {
+      const idArray = ids.split(',').filter(id => id.trim())
+      const words = await prisma.word.findMany({
+        where: { id: { in: idArray } },
+      })
+      return NextResponse.json(words)
+    }
     
     const where: any = {}
     if (difficulty && ['easy', 'medium', 'hard'].includes(difficulty)) {

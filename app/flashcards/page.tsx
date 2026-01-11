@@ -23,6 +23,7 @@ export default function FlashcardsPage() {
   const [stats, setStats] = useState({ correct: 0, total: 0 })
   const [sessionComplete, setSessionComplete] = useState(false)
   const [studySetWordIds, setStudySetWordIds] = useState<string[]>([])
+  const [wrongWordIds, setWrongWordIds] = useState<string[]>([])
 
   useEffect(() => {
     loadWords()
@@ -40,6 +41,7 @@ export default function FlashcardsPage() {
       setIsFlipped(false)
       setShowSynonyms(false)
       setStats({ correct: 0, total: 0 })
+      setWrongWordIds([])
     } catch (error) {
       console.error('Failed to load words:', error)
     } finally {
@@ -47,12 +49,45 @@ export default function FlashcardsPage() {
     }
   }
   
-  const redoSet = () => {
+  const redoEntireSet = () => {
     setCurrentIndex(0)
     setIsFlipped(false)
     setShowSynonyms(false)
     setStats({ correct: 0, total: 0 })
     setSessionComplete(false)
+    setWrongWordIds([])
+  }
+  
+  const redoWrongOnes = async () => {
+    if (wrongWordIds.length === 0) return
+    
+    setLoading(true)
+    try {
+      // Fetch the words that were answered incorrectly
+      const idsParam = wrongWordIds.join(',')
+      const response = await fetch(`/api/words?ids=${idsParam}`)
+      const wrongWords = await response.json()
+      
+      if (wrongWords.length > 0) {
+        // Shuffle the wrong words for variety
+        const shuffled = [...wrongWords].sort(() => Math.random() - 0.5)
+        setWords(shuffled)
+        setStudySetWordIds(shuffled.map((w: Word) => w.id))
+        setCurrentIndex(0)
+        setIsFlipped(false)
+        setShowSynonyms(false)
+        setStats({ correct: 0, total: 0 })
+        setSessionComplete(false)
+        setWrongWordIds([]) // Reset for this new session
+      } else {
+        alert('Could not find the words. Please try again.')
+      }
+    } catch (error) {
+      console.error('Failed to load wrong words:', error)
+      alert('Failed to load words. Please try again.')
+    } finally {
+      setLoading(false)
+    }
   }
   
   const startCrossword = () => {
@@ -83,6 +118,9 @@ export default function FlashcardsPage() {
     const word = words[currentIndex]
     setStats({ ...stats, total: stats.total + 1 })
     
+    // Track wrong words for "Redo Wrong Ones" feature
+    setWrongWordIds(prev => [...prev, word.id])
+    
     // Save progress
     await fetch('/api/flashcards/progress', {
       method: 'POST',
@@ -105,7 +143,7 @@ export default function FlashcardsPage() {
   }
   
   const accuracy = stats.total > 0 ? (stats.correct / stats.total) * 100 : 0
-  const canRedo = sessionComplete && accuracy >= 75 && accuracy < 100
+  const canRedoWrong = sessionComplete && accuracy < 100 && wrongWordIds.length > 0
   const canPlayCrossword = sessionComplete && accuracy === 100 && stats.total === words.length
 
   const currentWord = words[currentIndex]
@@ -302,32 +340,32 @@ export default function FlashcardsPage() {
                   <p style={{ marginBottom: '16px', fontSize: '18px', color: '#059669', fontWeight: 'bold' }}>
                     Perfect! You got 100%! 🎉
                   </p>
-                  <button onClick={startCrossword} className="btn btn-success" style={{ fontSize: '16px', padding: '12px 24px' }}>
+                  <button onClick={startCrossword} className="btn btn-success" style={{ fontSize: '16px', padding: '12px 24px', marginRight: '12px' }}>
                     Play Crossword Puzzle with These Words
                   </button>
-                </div>
-              )}
-              {canRedo && (
-                <div style={{ marginBottom: '16px' }}>
-                  <p style={{ marginBottom: '16px', fontSize: '16px', color: '#6b7280' }}>
-                    Great job! You got {stats.correct} out of {stats.total} correct ({accuracy.toFixed(1)}%).
-                  </p>
-                  <button onClick={redoSet} className="btn" style={{ fontSize: '16px', padding: '12px 24px', marginRight: '12px' }}>
-                    Redo This Set
-                  </button>
-                  <button onClick={loadWords} className="btn btn-secondary" style={{ fontSize: '16px', padding: '12px 24px' }}>
-                    New Set
+                  <button onClick={redoEntireSet} className="btn btn-secondary" style={{ fontSize: '16px', padding: '12px 24px' }}>
+                    Redo Entire Set
                   </button>
                 </div>
               )}
-              {!canRedo && !canPlayCrossword && (
+              {!canPlayCrossword && (
                 <div style={{ marginBottom: '16px' }}>
                   <p style={{ marginBottom: '16px', fontSize: '16px', color: '#6b7280' }}>
-                    Study session complete! Accuracy: {accuracy.toFixed(1)}%
+                    Study session complete! You got {stats.correct} out of {stats.total} correct ({accuracy.toFixed(1)}%).
                   </p>
-                  <button onClick={loadWords} className="btn" style={{ fontSize: '16px', padding: '12px 24px' }}>
-                    New Set
-                  </button>
+                  <div style={{ display: 'flex', gap: '12px', justifyContent: 'center', flexWrap: 'wrap' }}>
+                    {canRedoWrong && (
+                      <button onClick={redoWrongOnes} className="btn" style={{ fontSize: '16px', padding: '12px 24px' }}>
+                        Redo Wrong Ones ({wrongWordIds.length})
+                      </button>
+                    )}
+                    <button onClick={redoEntireSet} className="btn" style={{ fontSize: '16px', padding: '12px 24px' }}>
+                      Redo Entire Set
+                    </button>
+                    <button onClick={loadWords} className="btn btn-secondary" style={{ fontSize: '16px', padding: '12px 24px' }}>
+                      New Set
+                    </button>
+                  </div>
                 </div>
               )}
             </div>
