@@ -29,7 +29,7 @@ interface CrosswordWord {
   clue: string
 }
 
-function CrosswordPage() {
+function CrosswordPageContent() {
   const searchParams = useSearchParams()
   const [grid, setGrid] = useState<GridCell[][]>([])
   const [words, setWords] = useState<CrosswordWord[]>([])
@@ -562,6 +562,14 @@ function CrosswordPage() {
         )}
       </div>
     </>
+  )
+}
+
+export default function CrosswordPage() {
+  return (
+    <Suspense fallback={<div className="container"><div style={{ textAlign: 'center', padding: '40px' }}>Loading...</div></div>}>
+      <CrosswordPageContent />
+    </Suspense>
   )
 }
 
