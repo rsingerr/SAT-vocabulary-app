@@ -7,24 +7,6 @@ export async function POST(request: NextRequest) {
     const body = await request.json()
     let { wordCount = 15, difficulty = 'medium', seed, wordIds } = body
     
-    // Get words from database
-    let words: any[]
-    if (wordIds && Array.isArray(wordIds) && wordIds.length > 0) {
-      // Use specific word IDs (from flashcard study set)
-      words = await prisma.word.findMany({
-        where: { id: { in: wordIds } },
-      })
-      wordCount = words.length // Use all words from the set
-    } else {
-      // For regular crossword generation, validate wordCount
-      if (![10, 15, 20].includes(wordCount)) {
-        return NextResponse.json(
-          { error: 'wordCount must be 10, 15, or 20' },
-          { status: 400 }
-        )
-      }
-    }
-    
     if (!['easy', 'medium', 'hard'].includes(difficulty)) {
       return NextResponse.json(
         { error: 'difficulty must be easy, medium, or hard' },
@@ -53,7 +35,23 @@ export async function POST(request: NextRequest) {
       }
     }
     
-    if (!words) {
+    // Get words from database
+    let words: any[]
+    if (wordIds && Array.isArray(wordIds) && wordIds.length > 0) {
+      // Use specific word IDs (from flashcard study set)
+      words = await prisma.word.findMany({
+        where: { id: { in: wordIds } },
+      })
+      wordCount = words.length // Use all words from the set
+    } else {
+      // For regular crossword generation, validate wordCount
+      if (![10, 15, 20].includes(wordCount)) {
+        return NextResponse.json(
+          { error: 'wordCount must be 10, 15, or 20' },
+          { status: 400 }
+        )
+      }
+      
       // Get words by difficulty
       words = await prisma.word.findMany({
         where: { difficulty },
