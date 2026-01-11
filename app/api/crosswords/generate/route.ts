@@ -65,8 +65,13 @@ export async function POST(request: NextRequest) {
     const result = generator.generate(words, wordCount, difficulty)
     
     if (!result.success) {
+      console.error('Crossword generation failed:', {
+        wordsPlaced: result.words.length,
+        wordCount,
+        difficulty,
+      })
       return NextResponse.json(
-        { error: 'Failed to generate crossword puzzle' },
+        { error: `Failed to generate crossword puzzle. Only placed ${result.words.length} of ${wordCount} words.` },
         { status: 500 }
       )
     }

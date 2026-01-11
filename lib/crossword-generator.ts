@@ -69,10 +69,16 @@ export class CrosswordGenerator {
         if (cell.isBlack) return false
         if (cell.letter && cell.letter !== word[i]) return false
       }
-      // Check for valid start (left edge or black square before)
-      if (col > 0 && !this.grid[row][col - 1].isBlack) return false
-      // Check for valid end (right edge or black square after)
-      if (col + word.length < this.gridSize && !this.grid[row][col + word.length].isBlack) return false
+      // Check for valid start: must be at edge OR previous cell is black/empty
+      if (col > 0) {
+        const prevCell = this.grid[row][col - 1]
+        if (prevCell.letter) return false // Can't have a letter right before
+      }
+      // Check for valid end: must be at edge OR next cell is black/empty
+      if (col + word.length < this.gridSize) {
+        const nextCell = this.grid[row][col + word.length]
+        if (nextCell.letter) return false // Can't have a letter right after
+      }
     } else {
       if (row + word.length > this.gridSize) return false
       for (let i = 0; i < word.length; i++) {
@@ -80,10 +86,16 @@ export class CrosswordGenerator {
         if (cell.isBlack) return false
         if (cell.letter && cell.letter !== word[i]) return false
       }
-      // Check for valid start (top edge or black square before)
-      if (row > 0 && !this.grid[row - 1][col].isBlack) return false
-      // Check for valid end (bottom edge or black square after)
-      if (row + word.length < this.gridSize && !this.grid[row + word.length][col].isBlack) return false
+      // Check for valid start: must be at edge OR previous cell is black/empty
+      if (row > 0) {
+        const prevCell = this.grid[row - 1][col]
+        if (prevCell.letter) return false // Can't have a letter right before
+      }
+      // Check for valid end: must be at edge OR next cell is black/empty
+      if (row + word.length < this.gridSize) {
+        const nextCell = this.grid[row + word.length][col]
+        if (nextCell.letter) return false // Can't have a letter right after
+      }
     }
     return true
   }
@@ -97,16 +109,20 @@ export class CrosswordGenerator {
   ): void {
     for (let i = 0; i < word.length; i++) {
       if (direction === 'across') {
-        this.grid[row][col + i].letter = word[i]
-        this.grid[row][col + i].across = number
-        if (i === 0) {
-          this.grid[row][col + i].number = number
+        const cell = this.grid[row][col + i]
+        cell.letter = word[i]
+        cell.across = number
+        // Set number if this is the start of the word OR if this cell doesn't have a number yet (intersection)
+        if (i === 0 || !cell.number) {
+          cell.number = number
         }
       } else {
-        this.grid[row + i][col].letter = word[i]
-        this.grid[row + i][col].down = number
-        if (i === 0) {
-          this.grid[row + i][col].number = number
+        const cell = this.grid[row + i][col]
+        cell.letter = word[i]
+        cell.down = number
+        // Set number if this is the start of the word OR if this cell doesn't have a number yet (intersection)
+        if (i === 0 || !cell.number) {
+          cell.number = number
         }
       }
     }
